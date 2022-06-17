@@ -2,6 +2,7 @@ import express from "express";
 import cors from "cors";
 
 // Importing routes
+import csvToJsonRouter from '../routes/csvtojson.routes';
 import error404Router from '../routes/error404.routes';
 
 class Server {
@@ -24,6 +25,7 @@ class Server {
     }
 
     route() {
+        this.app.use(this.path.convert, csvToJsonRouter);
         this.app.use(this.path.error404, error404Router);
     };
 
