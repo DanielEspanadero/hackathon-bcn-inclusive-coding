@@ -1,13 +1,17 @@
 import express from "express";
 import cors from "cors";
 
+// Importing routes
+import error404Router from '../routes/error404.routes';
+
 class Server {
     constructor() {
         this.app = express();
         this.port = process.env.PORT;
         this.path = {
-            convert: '/csvtojson'
-        }
+            convert: '/csvtojson',
+            error404: '*'
+        };
 
         this.middlewares();
         this.route();
@@ -20,12 +24,12 @@ class Server {
     }
 
     route() {
-        this.app.use()
+        this.app.use(this.path.error404, error404Router);
     };
 
     listen() {
         this.app.listen(this.port, () => {
-            console.log(`Listenner on port ${this.port}`);
+            console.log(`Listenning on port ${this.port}`);
         });
     };
 };
