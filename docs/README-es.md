@@ -13,7 +13,7 @@ _Este archivo README también está disponible en otros idiomas:_
 - [Alemán](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-de.md)
 - [Italiano](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-it.md)
 - [Portugués](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-pt.md)
-- [Español](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-es.md)
+- [Inglés](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/README.md)
 - [Sueco](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-se.md)
 
 ## Goles 🎯
@@ -27,7 +27,7 @@ _⚠️ ¡Advertencia! → La tarea 1 y la tarea 2 están dentro del mismo punto
 
 _✅ Tarea 3 → Los números devueltos están en formato num/Int/double/float y no en formato de cadena - COMPLETED_
 
-_✅ Tarea 4 → Agregar prueba usando insomnio/Cartero - COMPLETADO_
+_✅ Tarea 4 → Agregar prueba usando insomnio/Postman - COMPLETADO_
 
 
 ## Empezando 🚀
@@ -46,7 +46,7 @@ _Para que el proyecto funcione correctamente, se recomienda tener una serie de p
 
 _Cuando hayas clonado este proyecto en tu repositorio local recuerda ejecutar el siguiente comando en la terminal para instalar las dependencias y que todo funcione correctamente:_
 ```
-instalar npm
+npm install
 ```
 
 
