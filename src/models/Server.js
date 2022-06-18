@@ -16,7 +16,6 @@ class Server {
 
         this.middlewares();
         this.route();
-        this.listen();
     };
 
     middlewares() {
