@@ -22,11 +22,9 @@ const fileFilter = (req, file, cb) => {
 
 export const upload = (req, res, next) => {
 
-    const maxSize = 1 * 1000 * 1000;
-
     return multer({
         storage,
-        limits: { fileSize: maxSize },
+        limits: { fileSize: 8000000 },
         fileFilter
     }).single('csv')(req, res, (err) => {
          // File size error
