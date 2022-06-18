@@ -5,6 +5,8 @@ import cors from 'cors';
 import csvToJsonRouter from '../routes/csvtojson.routes';
 import error404Router from '../routes/error404.routes';
 
+// I create the server logic in a class since it is easier to scale the project, I have added the cors for a future connection with a browser.
+
 class Server {
     constructor() {
         this.app = express();
