@@ -8,12 +8,14 @@ class ConvertCsvToJson {
         this.fileJson = fileJson;
     };
 
-    async csvToJson1Column() {
+    async csvToJson() {
         const routeCsv = path.join(__dirname, `../uploads/${this.fileCsv}`)
-        const fileUploaded = await csv()
+        const fileUploaded = await csv({
+            checkType: true
+        })
             .fromFile(routeCsv)
             .then((jsonObj) => {
-                // const numberRegexp = /"(-|)([0-9]+(?:\.[0-9]+)?)"/g 
+                // const numberRegexp = /"(-?[0-9]+\.{0,1}[0-9]*)"/g
                 // const jsonToString = JSON.stringify(jsonObj);
                 // const jsonWithNumbers = jsonToString.replace(numberRegexp, '$1$2')
 
