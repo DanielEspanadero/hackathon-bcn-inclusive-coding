@@ -1,0 +1,39 @@
+{
+	"info": {
+		"_postman_id": "c070247f-bd94-4f86-bf61-c77df8d15279",
+		"name": "CSV to JSON",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "19175949"
+	},
+	"item": [
+		{
+			"name": "CSV to JSON",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "formdata",
+					"formdata": [
+						{
+							"key": "csv",
+							"type": "file",
+							"src": "/Users/admin/Desktop/datos futbol/archive (1)/mls-salaries-2007.csv"
+						}
+					]
+				},
+				"url": {
+					"raw": "http://localhost:8080/csvtojson",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "8080",
+					"path": [
+						"csvtojson"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
