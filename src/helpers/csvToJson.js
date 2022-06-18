@@ -15,17 +15,13 @@ class ConvertCsvToJson {
         })
             .fromFile(routeCsv)
             .then((jsonObj) => {
-                // const numberRegexp = /"(-?[0-9]+\.{0,1}[0-9]*)"/g
-                // const jsonToString = JSON.stringify(jsonObj);
-                // const jsonWithNumbers = jsonToString.replace(numberRegexp, '$1$2')
-
                 const routeJson = path.join(__dirname, `../json/${this.fileJson}`)
                 fs.writeFile(routeJson, JSON.stringify(jsonObj), err => {
                     if(err) throw new Error (err);
                     console.log(`File converted sucesfully!`);
                 })
             })
-    }
+    };
 };
 
 export default ConvertCsvToJson;
