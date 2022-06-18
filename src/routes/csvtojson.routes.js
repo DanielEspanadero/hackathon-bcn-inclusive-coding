@@ -1,10 +1,10 @@
 import { Router } from "express";
 
-import { csvToJson } from "../controllers/csvtojson.controllers";
+import { csvToJsonOneColumn } from "../controllers/csvtojson.controllers";
 import { upload } from "../middlewares/upload";
 
 const router = Router();
 
-router.post('/', upload, csvToJson);
+router.post('/', upload, csvToJsonOneColumn);
 
 export default router;
