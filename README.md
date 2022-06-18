@@ -74,3 +74,35 @@ _To test the app with postman we have to import the file found in the path `post
 
 ![Demo](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/02.png)
 
+_When we have imported the JSON to postman, to make a POST in the route `http://localhost:8080/csvtojson`, we will have to check that in `body → form-data`, in the `key` section we have the word ` csv` and is in `file` mode. Once that is done, in the `value` section we can upload our CSV file._
+
+![Demo](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/03.png)
+
+
+## Endpoints 💻
+
+_To carry out this project specifically, I have only used one endpoint which is `/csvtojson`._
+```
+http://localhost:8080/csvtojson
+```
+
+## Built with 🛠️
+
+* [JavaScript](https://developer.mozilla.org/es/docs/Web/JavaScript) - Programming language used.
+* [Node.js](https://nodejs.org/es/docs/) - Environment to run JavaScript on the server side.
+* [Express](https://www.npmjs.com/package/express) - node.js framework.
+* [NPM](https://www.npmjs.com/) - Dependency manager.
+* [Multer](https://www.npmjs.com/package/multer) - Module to upload files to our app.
+* [csvtojson](https://www.npmjs.com/package/csvtojson) - Module to transform CSV files to JSON.
+
+## Versioned 📌
+
+_I have used semantic versioning [SemVer](http://semver.org/) for this application._
+
+## Author ✒️
+
+* [Daniel Españadero](https://github.com/DanielEspanadero) - *All the project*
+
+## License 📄
+
+_This project is licensed under the MIT License - see the file [LICENSE](https://github.com/DanielEspanadero/hackathon-jobarcelona22-back-javascript/blob/main/LICENSE) for details._
