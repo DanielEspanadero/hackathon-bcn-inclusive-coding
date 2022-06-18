@@ -1,1 +1,2970 @@
-[{"club":"CHI","last_name":"Armas","first_name":"Chris","position":"M","base_salary":225000,"guaranteed_compensation":225000},{"club":"CHI","last_name":"Banner","first_name":"Michael","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHI","last_name":"Barrett","first_name":"Chad","position":"F","base_salary":41212.5,"guaranteed_compensation":48712.5},{"club":"CHI","last_name":"Blanco","first_name":"Cuauhtemoc","position":"F","base_salary":2492316,"guaranteed_compensation":2666778},{"club":"CHI","last_name":"Brown","first_name":"C.J.","position":"D","base_salary":106391,"guaranteed_compensation":106391},{"club":"CHI","last_name":"Busch","first_name":"Jon","position":"GK","base_salary":58008,"guaranteed_compensation":58008},{"club":"CHI","last_name":"Carr","first_name":"Calen","position":"F","base_salary":38000,"guaranteed_compensation":50500},{"club":"CHI","last_name":"Conde","first_name":"Wilman","position":"D","base_salary":144000,"guaranteed_compensation":151500},{"club":"CHI","last_name":"Correa","first_name":"Thiago","position":"M","base_salary":44100,"guaranteed_compensation":44100},{"club":"CHI","last_name":"Curtin","first_name":"Jeff","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHI","last_name":"Curtin","first_name":"Jim","position":"D","base_salary":120750,"guaranteed_compensation":120750},{"club":"CHI","last_name":"Franks","first_name":"Floyd","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"CHI","last_name":"Guerrero","first_name":"Ivan","position":"D-M","base_salary":160000,"guaranteed_compensation":187500},{"club":"CHI","last_name":"Gutierrez","first_name":"Diego","position":"M","base_salary":126500,"guaranteed_compensation":126500},{"club":"CHI","last_name":"Mapp","first_name":"Justin","position":"M","base_salary":130000,"guaranteed_compensation":136000},{"club":"CHI","last_name":"Marques","first_name":"Bruno","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHI","last_name":"Monteiro","first_name":"Jerson","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"CHI","last_name":"Noble","first_name":"Nick","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHI","last_name":"Pause","first_name":"Logan","position":"M","base_salary":69300,"guaranteed_compensation":69300},{"club":"CHI","last_name":"Pickens","first_name":"Matt","position":"GK","base_salary":32340,"guaranteed_compensation":32340},{"club":"CHI","last_name":"Plotkin","first_name":"Brian","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"CHI","last_name":"Robinson","first_name":"Dasan","position":"D","base_salary":42500,"guaranteed_compensation":42500},{"club":"CHI","last_name":"Rolfe","first_name":"Chris","position":"F","base_salary":70000,"guaranteed_compensation":74700},{"club":"CHI","last_name":"Russolillo","first_name":"Jordan","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHI","last_name":"Segares","first_name":"Gonzalo","position":"D","base_salary":48300,"guaranteed_compensation":50800},{"club":"CHI","last_name":"Soumare","first_name":"Bakary","position":"D","base_salary":45000,"guaranteed_compensation":78000},{"club":"CHI","last_name":"Telesford","first_name":"Osei","position":"D","base_salary":36000,"guaranteed_compensation":36625},{"club":"CHI","last_name":"Wanchope","first_name":"Paulo","position":"F","base_salary":240000,"guaranteed_compensation":267500},{"club":"CHI","last_name":"Woolard","first_name":"Daniel","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHV","last_name":"Arvizu","first_name":"David","position":"F","base_salary":33000,"guaranteed_compensation":40500},{"club":"CHV","last_name":"Bornstein","first_name":"Jonathan","position":"D","base_salary":57500,"guaranteed_compensation":57500},{"club":"CHV","last_name":"Brooks","first_name":"Desmond","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHV","last_name":"Burling","first_name":"Bobby","position":"F-D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHV","last_name":"Burpo","first_name":"Preston","position":"GK","base_salary":52491.6,"guaranteed_compensation":52491.6},{"club":"CHV","last_name":"Cunliffe","first_name":"John","position":"F","base_salary":30000,"guaranteed_compensation":45000},{"club":"CHV","last_name":"Flores","first_name":"Jorge","position":"M","base_salary":12900,"guaranteed_compensation":13275},{"club":"CHV","last_name":"Galindo","first_name":"Maykel","position":"F","base_salary":72500,"guaranteed_compensation":72500},{"club":"CHV","last_name":"Guzan","first_name":"Brad","position":"GK","base_salary":52237.5,"guaranteed_compensation":67237.5},{"club":"CHV","last_name":"Hamilton","first_name":"Anthony","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"CHV","last_name":"Hernandez","first_name":"Jason","position":"D","base_salary":45000,"guaranteed_compensation":45625},{"club":"CHV","last_name":"Kljestan","first_name":"Sacha","position":"M","base_salary":70000,"guaranteed_compensation":103000},{"club":"CHV","last_name":"Llamosa","first_name":"Carlos","position":"D","base_salary":84000,"guaranteed_compensation":84000},{"club":"CHV","last_name":"Lopez","first_name":"Rodrigo","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"CHV","last_name":"Marsch","first_name":"Jesse","position":"M","base_salary":100000,"guaranteed_compensation":109375},{"club":"CHV","last_name":"Mendoza","first_name":"Francisco","position":"M","base_salary":90000,"guaranteed_compensation":93750},{"club":"CHV","last_name":"Merlin","first_name":"Laurent","position":"M","base_salary":60000,"guaranteed_compensation":60000},{"club":"CHV","last_name":"Myers","first_name":"Justin","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHV","last_name":"Nagamura","first_name":"Paulo","position":"M","base_salary":89250,"guaranteed_compensation":89250},{"club":"CHV","last_name":"Nunez","first_name":"Ramon","position":"M","base_salary":100000,"guaranteed_compensation":118000},{"club":"CHV","last_name":"Perez","first_name":"Orlando","position":"D","base_salary":70000,"guaranteed_compensation":70000},{"club":"CHV","last_name":"Razov","first_name":"Ante","position":"F","base_salary":245000,"guaranteed_compensation":248750},{"club":"CHV","last_name":"Robles","first_name":"Eder","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHV","last_name":"Solorzano","first_name":"Erasmo","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"CHV","last_name":"Suarez","first_name":"Claudio","position":"D","base_salary":146991.6,"guaranteed_compensation":146991.6},{"club":"CHV","last_name":"Thomas","first_name":"Shavar","position":"D","base_salary":70000,"guaranteed_compensation":73750},{"club":"CHV","last_name":"Vaughn","first_name":"Lawson","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"CHV","last_name":"Zotinca","first_name":"Alex","position":"D","base_salary":67500,"guaranteed_compensation":68750},{"club":"CLB","last_name":"Evans","first_name":"Brad","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"CLB","last_name":"Garey","first_name":"Jason","position":"F","base_salary":41250,"guaranteed_compensation":53750},{"club":"CLB","last_name":"Gaudette","first_name":"Bill","position":"GK","base_salary":30000,"guaranteed_compensation":30000},{"club":"CLB","last_name":"Gaven","first_name":"Eddie","position":"M","base_salary":165000,"guaranteed_compensation":188000},{"club":"CLB","last_name":"Gonzalez","first_name":"Marcos","position":"D","base_salary":156000,"guaranteed_compensation":162250},{"club":"CLB","last_name":"Grabavoy","first_name":"Ned","position":"M","base_salary":45050.25,"guaranteed_compensation":52550.25},{"club":"CLB","last_name":"Gruenebaum","first_name":"Andy","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"CLB","last_name":"Hejduk","first_name":"Frankie","position":"D","base_salary":150000,"guaranteed_compensation":175000},{"club":"CLB","last_name":"Hendrickson","first_name":"Ezra","position":"D-M","base_salary":76650,"guaranteed_compensation":77900},{"club":"CLB","last_name":"Herron","first_name":"Andy","position":"F","base_salary":140000,"guaranteed_compensation":148750},{"club":"CLB","last_name":"Hesmer","first_name":"William","position":"GK","base_salary":30870,"guaranteed_compensation":30870},{"club":"CLB","last_name":"Hunter","first_name":"Ben","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"CLB","last_name":"Junge","first_name":"Ryan","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"CLB","last_name":"Kamara","first_name":"Kei","position":"F","base_salary":33000,"guaranteed_compensation":43000},{"club":"CLB","last_name":"Marshall","first_name":"Chad","position":"D","base_salary":100000,"guaranteed_compensation":123000},{"club":"CLB","last_name":"Miglioranzi","first_name":"Stefani","position":"M","base_salary":70008,"guaranteed_compensation":86258},{"club":"CLB","last_name":"Moreno","first_name":"Alejandro","position":"F","base_salary":120000,"guaranteed_compensation":125000},{"club":"CLB","last_name":"Moss","first_name":"Brandon","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"CLB","last_name":"O'Rourke","first_name":"Danny","position":"M","base_salary":46331.25,"guaranteed_compensation":56331.25},{"club":"CLB","last_name":"Oughton","first_name":"Duncan","position":"D","base_salary":72000,"guaranteed_compensation":72000},{"club":"CLB","last_name":"Peterson","first_name":"Andrew","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"CLB","last_name":"Pierce","first_name":"Rusty","position":"D","base_salary":63000,"guaranteed_compensation":64300},{"club":"CLB","last_name":"Rogers","first_name":"Robbie","position":"F-M","base_salary":50000,"guaranteed_compensation":50000},{"club":"CLB","last_name":"Schelotto","first_name":"Guillermo Barros","position":"F","base_salary":150000,"guaranteed_compensation":150000},{"club":"CLB","last_name":"Szetela","first_name":"Danny","position":"M","base_salary":43135.31,"guaranteed_compensation":48760.31},{"club":"CLB","last_name":"Thomas","first_name":"Jacob","position":"M","base_salary":84000,"guaranteed_compensation":87750},{"club":"CLB","last_name":"Virtuoso","first_name":"Ricardo","position":"M","base_salary":60000,"guaranteed_compensation":102000},{"club":"CLB","last_name":"Ward","first_name":"Tim","position":"D","base_salary":38456.25,"guaranteed_compensation":48456.25},{"club":"CLB","last_name":"Zayner","first_name":"Jed","position":"D","base_salary":33000,"guaranteed_compensation":40500},{"club":"COL","last_name":"Ballouchy","first_name":"Mehdi","position":"M","base_salary":70000,"guaranteed_compensation":88000},{"club":"COL","last_name":"Cancela","first_name":"Jose","position":"M","base_salary":156000,"guaranteed_compensation":156000},{"club":"COL","last_name":"Casey","first_name":"Conor","position":"F","base_salary":180000,"guaranteed_compensation":180000},{"club":"COL","last_name":"Clark","first_name":"Colin","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"COL","last_name":"Colaluca","first_name":"Nico","position":"M","base_salary":45000,"guaranteed_compensation":78000},{"club":"COL","last_name":"Cooke","first_name":"Terry","position":"M","base_salary":147500,"guaranteed_compensation":152500},{"club":"COL","last_name":"Coundoul","first_name":"Bouna","position":"GK","base_salary":30000,"guaranteed_compensation":30000},{"club":"COL","last_name":"Cummings","first_name":"Omar","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"COL","last_name":"DiRaimondo","first_name":"John","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"COL","last_name":"Erpen","first_name":"Facundo","position":"D","base_salary":115000,"guaranteed_compensation":115000},{"club":"COL","last_name":"Gargan","first_name":"Daniel","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"COL","last_name":"Gomez","first_name":"Hercules","position":"F","base_salary":49350,"guaranteed_compensation":49350},{"club":"COL","last_name":"Harvey","first_name":"Jordan","position":"D","base_salary":17700,"guaranteed_compensation":17700},{"club":"COL","last_name":"Hernandez","first_name":"Nicolas","position":"F","base_salary":130000,"guaranteed_compensation":132400},{"club":"COL","last_name":"Hughes","first_name":"Justin","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"COL","last_name":"Ihemelu","first_name":"Ugo","position":"D","base_salary":55000,"guaranteed_compensation":55000},{"club":"COL","last_name":"Keel","first_name":"Stephen","position":"D","base_salary":17700,"guaranteed_compensation":17700},{"club":"COL","last_name":"Kimura","first_name":"Kosuke","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"COL","last_name":"Kirovski","first_name":"Jovan","position":"F","base_salary":200000,"guaranteed_compensation":200000},{"club":"COL","last_name":"LaBrocca","first_name":"Nick","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"COL","last_name":"Mastroeni","first_name":"Pablo","position":"M-D","base_salary":280000,"guaranteed_compensation":298000},{"club":"COL","last_name":"Osorno","first_name":"Daniel","position":"F","base_salary":138000,"guaranteed_compensation":143000},{"club":"COL","last_name":"Peterson","first_name":"Jacob","position":"F","base_salary":70000,"guaranteed_compensation":88750},{"club":"COL","last_name":"Petke","first_name":"Mike","position":"D","base_salary":126000,"guaranteed_compensation":126000},{"club":"COL","last_name":"Prideaux","first_name":"Brandon","position":"D","base_salary":76403,"guaranteed_compensation":76403},{"club":"COL","last_name":"Sanneh","first_name":"Tony","position":"D","base_salary":60000,"guaranteed_compensation":60000},{"club":"COL","last_name":"Thornton","first_name":"Zach","position":"GK","base_salary":57600,"guaranteed_compensation":57600},{"club":"COL","last_name":"Wasson","first_name":"Daniel","position":"D","base_salary":17700,"guaranteed_compensation":17700},{"club":"COL","last_name":"Wilmes","first_name":"Clifton","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"DAL","last_name":"Alvarez","first_name":"Arturo","position":"M","base_salary":32819,"guaranteed_compensation":46019},{"club":"DAL","last_name":"Botero","first_name":"Juan Sebastian","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"DAL","last_name":"Burse","first_name":"Ray","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"DAL","last_name":"Cooper","first_name":"Kenny","position":"F","base_salary":80000,"guaranteed_compensation":83000},{"club":"DAL","last_name":"Daniels","first_name":"Andrew","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"DAL","last_name":"De Oliveira","first_name":"Denilson","position":"M","base_salary":872736,"guaranteed_compensation":879936},{"club":"DAL","last_name":"Dello-Russo","first_name":"Michael","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"DAL","last_name":"Gbandi","first_name":"Chris","position":"D","base_salary":100000,"guaranteed_compensation":103750},{"club":"DAL","last_name":"Gbandi","first_name":"Sandy","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"DAL","last_name":"Goodson","first_name":"Clarence","position":"D","base_salary":48378.75,"guaranteed_compensation":53378.75},{"club":"DAL","last_name":"Hislop","first_name":"Shaka","position":"GK","base_salary":220800,"guaranteed_compensation":220800},{"club":"DAL","last_name":"Ibrahim","first_name":"Abdus","position":"F","base_salary":50000,"guaranteed_compensation":83000},{"club":"DAL","last_name":"Jones","first_name":"Scott","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"DAL","last_name":"McCarty","first_name":"Dax","position":"M","base_salary":33000,"guaranteed_compensation":45500},{"club":"DAL","last_name":"Mina","first_name":"Roberto","position":"F","base_salary":80000,"guaranteed_compensation":80000},{"club":"DAL","last_name":"Moor","first_name":"Drew","position":"D","base_salary":53350,"guaranteed_compensation":65850},{"club":"DAL","last_name":"Oduro","first_name":"Dominic","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"DAL","last_name":"Pereira","first_name":"Ricardo","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"DAL","last_name":"Pitchkolan","first_name":"Aaron","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"DAL","last_name":"Rhine","first_name":"Bobby","position":"D","base_salary":60000,"guaranteed_compensation":62500},{"club":"DAL","last_name":"Ricchetti","first_name":"Pablo","position":"M","base_salary":120000,"guaranteed_compensation":126625},{"club":"DAL","last_name":"Ruiz","first_name":"Carlos","position":"F","base_salary":325000,"guaranteed_compensation":435000},{"club":"DAL","last_name":"Sala","first_name":"Dario","position":"GK","base_salary":110000,"guaranteed_compensation":119875},{"club":"DAL","last_name":"Saragosa","first_name":"Marcelo","position":"M","base_salary":67008,"guaranteed_compensation":71883},{"club":"DAL","last_name":"Serioux","first_name":"Adrian","position":"D","base_salary":108000,"guaranteed_compensation":120500},{"club":"DAL","last_name":"Thompson","first_name":"Abe","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"DAL","last_name":"Toja","first_name":"Juan Carlos","position":"M","base_salary":100008,"guaranteed_compensation":100008},{"club":"DAL","last_name":"Wagenfuhr","first_name":"David","position":"D","base_salary":30870,"guaranteed_compensation":30870},{"club":"DAL","last_name":"Wagner","first_name":"Blake","position":"D","base_salary":33000,"guaranteed_compensation":45500},{"club":"DAL","last_name":"Wallace","first_name":"Anthony","position":"M","base_salary":45000,"guaranteed_compensation":78000},{"club":"DAL","last_name":"Yi","first_name":"Alex","position":"D","base_salary":30870,"guaranteed_compensation":30870},{"club":"DC","last_name":"Addlery","first_name":"Nicholas","position":"F","base_salary":36000,"guaranteed_compensation":36000},{"club":"DC","last_name":"Arguez","first_name":"Bryan","position":"M-D","base_salary":45000,"guaranteed_compensation":76200},{"club":"DC","last_name":"Boswell","first_name":"Robert","position":"D","base_salary":30870,"guaranteed_compensation":30870},{"club":"DC","last_name":"Burch","first_name":"Marc","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"DC","last_name":"Carreiro da Silva","first_name":"Fred","position":"M-F","base_salary":190008,"guaranteed_compensation":222008},{"club":"DC","last_name":"Carroll","first_name":"Brian","position":"M","base_salary":115000,"guaranteed_compensation":118750},{"club":"DC","last_name":"Carroll","first_name":"Jeff","position":"M-D","base_salary":12900,"guaranteed_compensation":12900},{"club":"DC","last_name":"Crowe","first_name":"Shawn","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"DC","last_name":"DeRoux","first_name":"Stephen","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"DC","last_name":"Dyachenko","first_name":"Rod","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"DC","last_name":"Emilio","first_name":"Luciano","position":"F","base_salary":265000,"guaranteed_compensation":293125},{"club":"DC","last_name":"Gomez","first_name":"Cristian","position":"M","base_salary":216000,"guaranteed_compensation":218500},{"club":"DC","last_name":"Gros","first_name":"Joshua","position":"M","base_salary":72500,"guaranteed_compensation":75000},{"club":"DC","last_name":"Kpene","first_name":"Guy","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"DC","last_name":"McTavish","first_name":"Devon","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"DC","last_name":"Mediate","first_name":"Stanton","position":"M-F","base_salary":30000,"guaranteed_compensation":30000},{"club":"DC","last_name":"Moose","first_name":"Justin","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"DC","last_name":"Moreno","first_name":"Jaime","position":"F","base_salary":250000,"guaranteed_compensation":275000},{"club":"DC","last_name":"Mupier","first_name":"Mira","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"DC","last_name":"Namoff","first_name":"Bryan","position":"D","base_salary":85000,"guaranteed_compensation":88750},{"club":"DC","last_name":"Nolly","first_name":"Jay","position":"GK","base_salary":36000,"guaranteed_compensation":36000},{"club":"DC","last_name":"North","first_name":"Brad","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"DC","last_name":"Olsen","first_name":"Ben","position":"M","base_salary":155000,"guaranteed_compensation":177500},{"club":"DC","last_name":"Perkins","first_name":"Troy","position":"GK","base_salary":85000,"guaranteed_compensation":87500},{"club":"DC","last_name":"Simms","first_name":"Clyde","position":"M","base_salary":52500,"guaranteed_compensation":53750},{"club":"DC","last_name":"Vanney","first_name":"Greg","position":"D","base_salary":216667,"guaranteed_compensation":236667},{"club":"DC","last_name":"Walker","first_name":"Jamil","position":"M-F","base_salary":30870,"guaranteed_compensation":30870},{"club":"HOU","last_name":"Ashe","first_name":"Corey","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"HOU","last_name":"Barrett","first_name":"Wade","position":"D","base_salary":141750,"guaranteed_compensation":141750},{"club":"HOU","last_name":"Chabala","first_name":"Mike","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"HOU","last_name":"Ching","first_name":"Brian","position":"F","base_salary":220000,"guaranteed_compensation":220000},{"club":"HOU","last_name":"Clark","first_name":"Ricardo","position":"M","base_salary":195000,"guaranteed_compensation":195000},{"club":"HOU","last_name":"Cochrane","first_name":"Ryan","position":"D","base_salary":51149,"guaranteed_compensation":66149},{"club":"HOU","last_name":"Dalglish","first_name":"Paul","position":"F","base_salary":96000,"guaranteed_compensation":101000},{"club":"HOU","last_name":"Davis","first_name":"Brad","position":"M","base_salary":120000,"guaranteed_compensation":120000},{"club":"HOU","last_name":"DeRosario","first_name":"Dwayne","position":"M","base_salary":324999.96,"guaranteed_compensation":324999.96},{"club":"HOU","last_name":"Ebert","first_name":"Eric","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"HOU","last_name":"Hatzke","first_name":"Nick","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"HOU","last_name":"Hayden","first_name":"John-Michael","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"HOU","last_name":"Hoerner","first_name":"Kenneth","position":"M-F","base_salary":12900,"guaranteed_compensation":12900},{"club":"HOU","last_name":"Holden","first_name":"Stuart","position":"M","base_salary":31500,"guaranteed_compensation":31500},{"club":"HOU","last_name":"Ianni","first_name":"Patrick","position":"D","base_salary":70000,"guaranteed_compensation":103000},{"club":"HOU","last_name":"James","first_name":"Jordan","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"HOU","last_name":"Jaqua","first_name":"Nate","position":"F","base_salary":112500,"guaranteed_compensation":119525},{"club":"HOU","last_name":"Moloi","first_name":"Mpho","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"HOU","last_name":"Mullan","first_name":"Brian","position":"M","base_salary":125000,"guaranteed_compensation":125000},{"club":"HOU","last_name":"Mulrooney","first_name":"Richard","position":"M","base_salary":220000,"guaranteed_compensation":233200},{"club":"HOU","last_name":"Ngwenya","first_name":"Joseph","position":"F","base_salary":51148.13,"guaranteed_compensation":62023.13},{"club":"HOU","last_name":"Onstad","first_name":"Pat","position":"GK","base_salary":168000,"guaranteed_compensation":168000},{"club":"HOU","last_name":"Robinson","first_name":"Eddie","position":"D","base_salary":110000,"guaranteed_compensation":110000},{"club":"HOU","last_name":"Ustruck","first_name":"Erik","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"HOU","last_name":"Waibel","first_name":"Craig","position":"D","base_salary":85000,"guaranteed_compensation":85000},{"club":"HOU","last_name":"Wells","first_name":"Zachary","position":"GK","base_salary":50400,"guaranteed_compensation":50400},{"club":"HOU","last_name":"Wondolowski","first_name":"Chris","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Arnaud","first_name":"Davy","position":"M","base_salary":100000,"guaranteed_compensation":101875},{"club":"KC","last_name":"Burciaga","first_name":"Jose","position":"D","base_salary":100000,"guaranteed_compensation":102500},{"club":"KC","last_name":"Colombano","first_name":"Eloy","position":"F-M","base_salary":42000,"guaranteed_compensation":42000},{"club":"KC","last_name":"Conrad","first_name":"Jimmy","position":"D","base_salary":194750,"guaranteed_compensation":206000},{"club":"KC","last_name":"Elcock","first_name":"Edson","position":"M-F","base_salary":17700,"guaranteed_compensation":17700},{"club":"KC","last_name":"Garcia","first_name":"Nick","position":"D","base_salary":131250,"guaranteed_compensation":136250},{"club":"KC","last_name":"Godbolt","first_name":"Aaron John","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"KC","last_name":"Guadarrama","first_name":"Willy","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"KC","last_name":"Harrington","first_name":"Michael","position":"D","base_salary":36000,"guaranteed_compensation":53500},{"club":"KC","last_name":"Hartman","first_name":"Kevin","position":"GK","base_salary":150000,"guaranteed_compensation":150000},{"club":"KC","last_name":"Hohlbein","first_name":"Aaron","position":"M-D","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Jewsbury","first_name":"Jack","position":"M-F","base_salary":50000,"guaranteed_compensation":50000},{"club":"KC","last_name":"John","first_name":"Will","position":"M-F","base_salary":33075,"guaranteed_compensation":40575},{"club":"KC","last_name":"Johnson","first_name":"Eddie","position":"F","base_salary":750000,"guaranteed_compensation":875000},{"club":"KC","last_name":"Konopka","first_name":"Chris","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"KC","last_name":"Kraus","first_name":"Michael","position":"M-F","base_salary":12900,"guaranteed_compensation":12900},{"club":"KC","last_name":"Kronberg","first_name":"Eric","position":"GK","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Lowery","first_name":"Amir","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"KC","last_name":"Marinelli","first_name":"Carlos","position":"M","base_salary":165000,"guaranteed_compensation":165000},{"club":"KC","last_name":"McMahen","first_name":"Ryan","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Morsink","first_name":"Kurt","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Movsisyan","first_name":"Yura","position":"F","base_salary":35750,"guaranteed_compensation":45750},{"club":"KC","last_name":"Pore","first_name":"Ryan","position":"F","base_salary":44825,"guaranteed_compensation":57325},{"club":"KC","last_name":"Raybould","first_name":"Ryan","position":"D-M","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Sealy","first_name":"Scott","position":"F","base_salary":33075,"guaranteed_compensation":33075},{"club":"KC","last_name":"Victorine","first_name":"Sasha","position":"M","base_salary":137500,"guaranteed_compensation":140000},{"club":"KC","last_name":"Wahl","first_name":"Tyson","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"KC","last_name":"Watson","first_name":"Lance","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"KC","last_name":"Zavagnin","first_name":"Kerry","position":"M","base_salary":154000,"guaranteed_compensation":154000},{"club":"LA","last_name":"Albright","first_name":"Chris","position":"M-D","base_salary":142500,"guaranteed_compensation":142500},{"club":"LA","last_name":"Beckham","first_name":"David","position":"M","base_salary":5500000.08,"guaranteed_compensation":6500000.04},{"club":"LA","last_name":"Buddle","first_name":"Edson","position":"F","base_salary":140000,"guaranteed_compensation":150000},{"club":"LA","last_name":"Cannon","first_name":"Joe","position":"GK","base_salary":192000,"guaranteed_compensation":192000},{"club":"LA","last_name":"Caso","first_name":"Mike","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"LA","last_name":"Cronin","first_name":"Steve","position":"GK","base_salary":34728.75,"guaranteed_compensation":42228.75},{"club":"LA","last_name":"Donovan","first_name":"Landon","position":"F","base_salary":900000,"guaranteed_compensation":900000},{"club":"LA","last_name":"Friesz","first_name":"Lance","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"LA","last_name":"Glinton","first_name":"Gavin","position":"F","base_salary":50000,"guaranteed_compensation":50000},{"club":"LA","last_name":"Gordon","first_name":"Alan","position":"F","base_salary":30870,"guaranteed_compensation":30870},{"club":"LA","last_name":"Gray","first_name":"Kelly","position":"M-D","base_salary":85000,"guaranteed_compensation":85000},{"club":"LA","last_name":"Harden","first_name":"Ty","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"LA","last_name":"Harmse","first_name":"Kevin","position":"M","base_salary":40800,"guaranteed_compensation":40800},{"club":"LA","last_name":"Jazic","first_name":"Ante","position":"D-M","base_salary":108000,"guaranteed_compensation":114250},{"club":"LA","last_name":"Jones","first_name":"Cobi","position":"M","base_salary":95000,"guaranteed_compensation":95000},{"club":"LA","last_name":"Kirk","first_name":"Quavas","position":"F","base_salary":75000,"guaranteed_compensation":111500},{"club":"LA","last_name":"Klein","first_name":"Chris","position":"M","base_salary":180000,"guaranteed_compensation":187250},{"club":"LA","last_name":"Martino","first_name":"Kyle","position":"M","base_salary":52500,"guaranteed_compensation":55297.27},{"club":"LA","last_name":"Pavon","first_name":"Carlos","position":"F","base_salary":132000,"guaranteed_compensation":141500},{"club":"LA","last_name":"Randolph","first_name":"Michael","position":"D","base_salary":17700,"guaranteed_compensation":17700},{"club":"LA","last_name":"Roberts","first_name":"Troy","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"LA","last_name":"Sesay","first_name":"Israel","position":"F","base_salary":45000,"guaranteed_compensation":57083.33},{"club":"LA","last_name":"Tudela","first_name":"Josh","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"LA","last_name":"Vagenas","first_name":"Peter","position":"M","base_salary":131250,"guaranteed_compensation":131875},{"club":"LA","last_name":"Veris","first_name":"Kyle","position":"D","base_salary":17700,"guaranteed_compensation":17700},{"club":"LA","last_name":"Xavier","first_name":"Abel","position":"D","base_salary":156000,"guaranteed_compensation":156000},{"club":"NE","last_name":"Byrne","first_name":"Bryan","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"NE","last_name":"Cristman","first_name":"Adam","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"NE","last_name":"Dorman","first_name":"Andy","position":"M","base_salary":30870,"guaranteed_compensation":30870},{"club":"NE","last_name":"Flood","first_name":"Gary","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"NE","last_name":"Franchino","first_name":"Joey","position":"D","base_salary":90000,"guaranteed_compensation":90000},{"club":"NE","last_name":"Gonzalez","first_name":"Miguel","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"NE","last_name":"Heaps","first_name":"Jay","position":"D","base_salary":110000,"guaranteed_compensation":113750},{"club":"NE","last_name":"Helton","first_name":"Kyle","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"NE","last_name":"Igwe","first_name":"Amaechi","position":"F","base_salary":45000,"guaranteed_compensation":78000},{"club":"NE","last_name":"John","first_name":"Avery","position":"D","base_salary":63000,"guaranteed_compensation":63750},{"club":"NE","last_name":"Joseph","first_name":"Shalrie","position":"D","base_salary":170625,"guaranteed_compensation":180625},{"club":"NE","last_name":"Knighton","first_name":"Brad","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"NE","last_name":"Larentowicz","first_name":"Jeff","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"NE","last_name":"Leonard","first_name":"Marshall","position":"M","base_salary":47500,"guaranteed_compensation":47500},{"club":"NE","last_name":"Loftus","first_name":"Chris","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"NE","last_name":"Noonan","first_name":"Pat","position":"F","base_salary":225000,"guaranteed_compensation":227500},{"club":"NE","last_name":"Oka","first_name":"Arsene","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"NE","last_name":"Parkhurst","first_name":"Michael","position":"D","base_salary":80575,"guaranteed_compensation":93075},{"club":"NE","last_name":"Ralston","first_name":"Steve","position":"M","base_salary":150000,"guaranteed_compensation":150000},{"club":"NE","last_name":"Reis","first_name":"Matt","position":"GK","base_salary":150000,"guaranteed_compensation":150000},{"club":"NE","last_name":"Riley","first_name":"James","position":"D-F","base_salary":30870,"guaranteed_compensation":30870},{"club":"NE","last_name":"Sims","first_name":"Willie","position":"F","base_salary":35500,"guaranteed_compensation":43000},{"club":"NE","last_name":"Smith","first_name":"Khano","position":"F","base_salary":44100,"guaranteed_compensation":44100},{"club":"NE","last_name":"Solle","first_name":"Ryan","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"NE","last_name":"Thompson","first_name":"Wells","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"NE","last_name":"Twellman","first_name":"Taylor","position":"F","base_salary":325008,"guaranteed_compensation":350008},{"club":"NE","last_name":"Warren","first_name":"Doug","position":"GK","base_salary":50000,"guaranteed_compensation":50000},{"club":"NY","last_name":"Altidore","first_name":"Josmer","position":"F","base_salary":85000,"guaranteed_compensation":108333},{"club":"NY","last_name":"Angel","first_name":"Juan Pablo","position":"F","base_salary":1500000,"guaranteed_compensation":1593750},{"club":"NY","last_name":"Caccavale","first_name":"Salvatore","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"NY","last_name":"Camp","first_name":"Blake","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"NY","last_name":"Cepero","first_name":"Danny","position":"GK","base_salary":12900,"guaranteed_compensation":12900},{"club":"NY","last_name":"Conway","first_name":"Jon","position":"GK","base_salary":65000,"guaranteed_compensation":65750},{"club":"NY","last_name":"Doe","first_name":"Francis","position":"F","base_salary":48000,"guaranteed_compensation":48000},{"club":"NY","last_name":"Freeman","first_name":"Hunter","position":"D-M","base_salary":50600,"guaranteed_compensation":60600},{"club":"NY","last_name":"Goldthwaite","first_name":"Kevin","position":"D","base_salary":30870,"guaranteed_compensation":30870},{"club":"NY","last_name":"Ikangu","first_name":"Elie","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"NY","last_name":"Karcz","first_name":"Chris","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"NY","last_name":"Kovalenko","first_name":"Dema","position":"M","base_salary":190000,"guaranteed_compensation":197375},{"club":"NY","last_name":"Laventure","first_name":"Jerrod","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"NY","last_name":"Leitch","first_name":"Chris","position":"D","base_salary":43200,"guaranteed_compensation":43200},{"club":"NY","last_name":"Magee","first_name":"Mike","position":"F","base_salary":56206.25,"guaranteed_compensation":57206.25},{"club":"NY","last_name":"Mathis","first_name":"Clint","position":"M-F","base_salary":270000,"guaranteed_compensation":410000},{"club":"NY","last_name":"Mendes","first_name":"Carlos","position":"D","base_salary":62606.25,"guaranteed_compensation":62606.25},{"club":"NY","last_name":"Parke","first_name":"Jeff","position":"D","base_salary":47250,"guaranteed_compensation":48500},{"club":"NY","last_name":"Patterson","first_name":"Randi","position":"F","base_salary":12900,"guaranteed_compensation":12900},{"club":"NY","last_name":"Quaranta","first_name":"Santino","position":"F","base_salary":100000,"guaranteed_compensation":105312.5},{"club":"NY","last_name":"Reyna","first_name":"Claudio","position":"M","base_salary":1000008,"guaranteed_compensation":1250008},{"club":"NY","last_name":"Richards","first_name":"Dane","position":"F-M","base_salary":30000,"guaranteed_compensation":30000},{"club":"NY","last_name":"Schopp","first_name":"Markus","position":"M","base_salary":175000,"guaranteed_compensation":175000},{"club":"NY","last_name":"Stammler","first_name":"Seth","position":"D","base_salary":30870,"guaranteed_compensation":30870},{"club":"NY","last_name":"Ubiparipovic","first_name":"Sinisa","position":"F-M","base_salary":17700,"guaranteed_compensation":17700},{"club":"NY","last_name":"Van Den Bergh","first_name":"Dave","position":"M","base_salary":180000,"guaranteed_compensation":214583.33},{"club":"NY","last_name":"Vide","first_name":"Joe","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"NY","last_name":"Waterreus","first_name":"Ronald","position":"GK","base_salary":200000,"guaranteed_compensation":200000},{"club":"NY","last_name":"Wolyniec","first_name":"John","position":"F","base_salary":65625,"guaranteed_compensation":65625},{"club":"Pool","last_name":"Monsalve","first_name":"David","position":"GK","base_salary":30000,"guaranteed_compensation":30000},{"club":"Pool","last_name":"Pardo","first_name":"Boris","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"Pool","last_name":"Reynolds","first_name":"Samuel","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"Pool","last_name":"Schoeni","first_name":"Kenny","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"RSL","last_name":"Beckerman","first_name":"Kyle","position":"M","base_salary":120000,"guaranteed_compensation":122500},{"club":"RSL","last_name":"Besagno","first_name":"Nikolas","position":"M","base_salary":75000,"guaranteed_compensation":111500},{"club":"RSL","last_name":"Brown","first_name":"Kyle","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"RSL","last_name":"Brown","first_name":"Chris","position":"M-F","base_salary":70000,"guaranteed_compensation":70000},{"club":"RSL","last_name":"Curfman","first_name":"Steven","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"RSL","last_name":"Cutler","first_name":"Kenny","position":"M","base_salary":30000,"guaranteed_compensation":30000},{"club":"RSL","last_name":"Eskandarian","first_name":"Alecko","position":"F","base_salary":155000,"guaranteed_compensation":175500},{"club":"RSL","last_name":"Espindola","first_name":"Edgar","position":"F","base_salary":72000,"guaranteed_compensation":72000},{"club":"RSL","last_name":"Findley","first_name":"Robert","position":"F","base_salary":36000,"guaranteed_compensation":48500},{"club":"RSL","last_name":"Forko","first_name":"Willis","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"RSL","last_name":"Harris","first_name":"Atiba","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"RSL","last_name":"Hashimoto","first_name":"Duke","position":"F","base_salary":17700,"guaranteed_compensation":17700},{"club":"RSL","last_name":"Jimenez","first_name":"Christian","position":"M","base_salary":33075,"guaranteed_compensation":43075},{"club":"RSL","last_name":"Kipre","first_name":"Jean-Martial","position":"D","base_salary":30000,"guaranteed_compensation":30000},{"club":"RSL","last_name":"Kirby","first_name":"Dustin","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"RSL","last_name":"Kotschau","first_name":"Ritchie","position":"D","base_salary":69300,"guaranteed_compensation":70175},{"club":"RSL","last_name":"Lancos","first_name":"Chris","position":"D","base_salary":17700,"guaranteed_compensation":17700},{"club":"RSL","last_name":"Mantilla","first_name":"Matias","position":"D","base_salary":48000,"guaranteed_compensation":48000},{"club":"RSL","last_name":"Morales","first_name":"Javier","position":"M","base_salary":120000,"guaranteed_compensation":120000},{"club":"RSL","last_name":"Pope","first_name":"Eddie","position":"D","base_salary":265000,"guaranteed_compensation":265000},{"club":"RSL","last_name":"Reynish","first_name":"Kyle","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"RSL","last_name":"Rimando","first_name":"Nick","position":"GK","base_salary":64125,"guaranteed_compensation":68468.75},{"club":"RSL","last_name":"Seitz","first_name":"Chris","position":"GK","base_salary":55000,"guaranteed_compensation":90500},{"club":"RSL","last_name":"Stewart","first_name":"Jack","position":"D","base_salary":41081.25,"guaranteed_compensation":48581.25},{"club":"RSL","last_name":"Sturgis","first_name":"Nathan","position":"M","base_salary":70000,"guaranteed_compensation":103000},{"club":"RSL","last_name":"Talley","first_name":"Carey","position":"D","base_salary":118248,"guaranteed_compensation":118248},{"club":"RSL","last_name":"Watson","first_name":"Jamie","position":"F","base_salary":45100,"guaranteed_compensation":50100},{"club":"RSL","last_name":"Williams","first_name":"Andy","position":"F","base_salary":70008,"guaranteed_compensation":70008},{"club":"RSL","last_name":"Wingert","first_name":"Chris","position":"D","base_salary":54993.75,"guaranteed_compensation":62493.75},{"club":"TFC","last_name":"Attakora-Gyan","first_name":"Nana","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"TFC","last_name":"Boyens","first_name":"Andrew","position":"D","base_salary":30000,"guaranteed_compensation":47500},{"club":"TFC","last_name":"Braz","first_name":"Adam","position":"D","base_salary":67200,"guaranteed_compensation":74950},{"club":"TFC","last_name":"Brennan","first_name":"Jim","position":"D","base_salary":150000,"guaranteed_compensation":158000},{"club":"TFC","last_name":"Canizalez","first_name":"Maycoll","position":"M","base_salary":36000,"guaranteed_compensation":40000},{"club":"TFC","last_name":"Cunningham","first_name":"Jeffrey","position":"F","base_salary":220000,"guaranteed_compensation":232500},{"club":"TFC","last_name":"Dichio","first_name":"Daniel","position":"F","base_salary":150000,"guaranteed_compensation":158125},{"club":"TFC","last_name":"Djekanovic","first_name":"Srdjan","position":"GK","base_salary":17700,"guaranteed_compensation":17700},{"club":"TFC","last_name":"Dunivant","first_name":"Todd","position":"D","base_salary":99750,"guaranteed_compensation":99750},{"club":"TFC","last_name":"Edu","first_name":"Maurice","position":"M","base_salary":50000,"guaranteed_compensation":132500},{"club":"TFC","last_name":"Gala","first_name":"Gabriel","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"TFC","last_name":"Guzman","first_name":"David","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"TFC","last_name":"Hemming","first_name":"Tyler","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"TFC","last_name":"Lombardo","first_name":"Andrea","position":"F","base_salary":30000,"guaranteed_compensation":30000},{"club":"TFC","last_name":"Lumley","first_name":"Stephen","position":"D","base_salary":12900,"guaranteed_compensation":12900},{"club":"TFC","last_name":"Marshall","first_name":"Tyrone","position":"D","base_salary":142000,"guaranteed_compensation":149500},{"club":"TFC","last_name":"Melo","first_name":"Joey","position":"M","base_salary":12900,"guaranteed_compensation":12900},{"club":"TFC","last_name":"Nunez","first_name":"Cristian","position":"M","base_salary":17700,"guaranteed_compensation":17700},{"club":"TFC","last_name":"O'Brien","first_name":"Ronnie","position":"M","base_salary":240000,"guaranteed_compensation":258750},{"club":"TFC","last_name":"Pozniak","first_name":"Chris","position":"D","base_salary":90000,"guaranteed_compensation":95000},{"club":"TFC","last_name":"Reda","first_name":"Marco","position":"D","base_salary":100000,"guaranteed_compensation":105000},{"club":"TFC","last_name":"Robinson","first_name":"Carl","position":"M","base_salary":300000,"guaranteed_compensation":315000},{"club":"TFC","last_name":"Samuel","first_name":"Collin","position":"F","base_salary":90000,"guaranteed_compensation":115000},{"club":"TFC","last_name":"Stamatopolus","first_name":"Kenny","position":"GK","base_salary":30000,"guaranteed_compensation":37500},{"club":"TFC","last_name":"Sutton","first_name":"Greg","position":"GK","base_salary":125000,"guaranteed_compensation":132562.5},{"club":"TFC","last_name":"Welsh","first_name":"Andrew","position":"M","base_salary":195000,"guaranteed_compensation":204750},{"club":"TFC","last_name":"Wynne","first_name":"Marvell","position":"D","base_salary":47500,"guaranteed_compensation":150000}]
+[
+    {
+        "club": "CHI",
+        "last_name": "Armas",
+        "first_name": "Chris",
+        "position": "M",
+        "base_salary": 225000,
+        "guaranteed_compensation": 225000
+    },
+    {
+        "club": "CHI",
+        "last_name": "Banner",
+        "first_name": "Michael",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHI",
+        "last_name": "Barrett",
+        "first_name": "Chad",
+        "position": "F",
+        "base_salary": 41212.5,
+        "guaranteed_compensation": 48712.5
+    },
+    {
+        "club": "CHI",
+        "last_name": "Blanco",
+        "first_name": "Cuauhtemoc",
+        "position": "F",
+        "base_salary": 2492316,
+        "guaranteed_compensation": 2666778
+    },
+    {
+        "club": "CHI",
+        "last_name": "Brown",
+        "first_name": "C.J.",
+        "position": "D",
+        "base_salary": 106391,
+        "guaranteed_compensation": 106391
+    },
+    {
+        "club": "CHI",
+        "last_name": "Busch",
+        "first_name": "Jon",
+        "position": "GK",
+        "base_salary": 58008,
+        "guaranteed_compensation": 58008
+    },
+    {
+        "club": "CHI",
+        "last_name": "Carr",
+        "first_name": "Calen",
+        "position": "F",
+        "base_salary": 38000,
+        "guaranteed_compensation": 50500
+    },
+    {
+        "club": "CHI",
+        "last_name": "Conde",
+        "first_name": "Wilman",
+        "position": "D",
+        "base_salary": 144000,
+        "guaranteed_compensation": 151500
+    },
+    {
+        "club": "CHI",
+        "last_name": "Correa",
+        "first_name": "Thiago",
+        "position": "M",
+        "base_salary": 44100,
+        "guaranteed_compensation": 44100
+    },
+    {
+        "club": "CHI",
+        "last_name": "Curtin",
+        "first_name": "Jeff",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHI",
+        "last_name": "Curtin",
+        "first_name": "Jim",
+        "position": "D",
+        "base_salary": 120750,
+        "guaranteed_compensation": 120750
+    },
+    {
+        "club": "CHI",
+        "last_name": "Franks",
+        "first_name": "Floyd",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CHI",
+        "last_name": "Guerrero",
+        "first_name": "Ivan",
+        "position": "D-M",
+        "base_salary": 160000,
+        "guaranteed_compensation": 187500
+    },
+    {
+        "club": "CHI",
+        "last_name": "Gutierrez",
+        "first_name": "Diego",
+        "position": "M",
+        "base_salary": 126500,
+        "guaranteed_compensation": 126500
+    },
+    {
+        "club": "CHI",
+        "last_name": "Mapp",
+        "first_name": "Justin",
+        "position": "M",
+        "base_salary": 130000,
+        "guaranteed_compensation": 136000
+    },
+    {
+        "club": "CHI",
+        "last_name": "Marques",
+        "first_name": "Bruno",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHI",
+        "last_name": "Monteiro",
+        "first_name": "Jerson",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CHI",
+        "last_name": "Noble",
+        "first_name": "Nick",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHI",
+        "last_name": "Pause",
+        "first_name": "Logan",
+        "position": "M",
+        "base_salary": 69300,
+        "guaranteed_compensation": 69300
+    },
+    {
+        "club": "CHI",
+        "last_name": "Pickens",
+        "first_name": "Matt",
+        "position": "GK",
+        "base_salary": 32340,
+        "guaranteed_compensation": 32340
+    },
+    {
+        "club": "CHI",
+        "last_name": "Plotkin",
+        "first_name": "Brian",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "CHI",
+        "last_name": "Robinson",
+        "first_name": "Dasan",
+        "position": "D",
+        "base_salary": 42500,
+        "guaranteed_compensation": 42500
+    },
+    {
+        "club": "CHI",
+        "last_name": "Rolfe",
+        "first_name": "Chris",
+        "position": "F",
+        "base_salary": 70000,
+        "guaranteed_compensation": 74700
+    },
+    {
+        "club": "CHI",
+        "last_name": "Russolillo",
+        "first_name": "Jordan",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHI",
+        "last_name": "Segares",
+        "first_name": "Gonzalo",
+        "position": "D",
+        "base_salary": 48300,
+        "guaranteed_compensation": 50800
+    },
+    {
+        "club": "CHI",
+        "last_name": "Soumare",
+        "first_name": "Bakary",
+        "position": "D",
+        "base_salary": 45000,
+        "guaranteed_compensation": 78000
+    },
+    {
+        "club": "CHI",
+        "last_name": "Telesford",
+        "first_name": "Osei",
+        "position": "D",
+        "base_salary": 36000,
+        "guaranteed_compensation": 36625
+    },
+    {
+        "club": "CHI",
+        "last_name": "Wanchope",
+        "first_name": "Paulo",
+        "position": "F",
+        "base_salary": 240000,
+        "guaranteed_compensation": 267500
+    },
+    {
+        "club": "CHI",
+        "last_name": "Woolard",
+        "first_name": "Daniel",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHV",
+        "last_name": "Arvizu",
+        "first_name": "David",
+        "position": "F",
+        "base_salary": 33000,
+        "guaranteed_compensation": 40500
+    },
+    {
+        "club": "CHV",
+        "last_name": "Bornstein",
+        "first_name": "Jonathan",
+        "position": "D",
+        "base_salary": 57500,
+        "guaranteed_compensation": 57500
+    },
+    {
+        "club": "CHV",
+        "last_name": "Brooks",
+        "first_name": "Desmond",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHV",
+        "last_name": "Burling",
+        "first_name": "Bobby",
+        "position": "F-D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHV",
+        "last_name": "Burpo",
+        "first_name": "Preston",
+        "position": "GK",
+        "base_salary": 52491.6,
+        "guaranteed_compensation": 52491.6
+    },
+    {
+        "club": "CHV",
+        "last_name": "Cunliffe",
+        "first_name": "John",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 45000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Flores",
+        "first_name": "Jorge",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 13275
+    },
+    {
+        "club": "CHV",
+        "last_name": "Galindo",
+        "first_name": "Maykel",
+        "position": "F",
+        "base_salary": 72500,
+        "guaranteed_compensation": 72500
+    },
+    {
+        "club": "CHV",
+        "last_name": "Guzan",
+        "first_name": "Brad",
+        "position": "GK",
+        "base_salary": 52237.5,
+        "guaranteed_compensation": 67237.5
+    },
+    {
+        "club": "CHV",
+        "last_name": "Hamilton",
+        "first_name": "Anthony",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CHV",
+        "last_name": "Hernandez",
+        "first_name": "Jason",
+        "position": "D",
+        "base_salary": 45000,
+        "guaranteed_compensation": 45625
+    },
+    {
+        "club": "CHV",
+        "last_name": "Kljestan",
+        "first_name": "Sacha",
+        "position": "M",
+        "base_salary": 70000,
+        "guaranteed_compensation": 103000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Llamosa",
+        "first_name": "Carlos",
+        "position": "D",
+        "base_salary": 84000,
+        "guaranteed_compensation": 84000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Lopez",
+        "first_name": "Rodrigo",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CHV",
+        "last_name": "Marsch",
+        "first_name": "Jesse",
+        "position": "M",
+        "base_salary": 100000,
+        "guaranteed_compensation": 109375
+    },
+    {
+        "club": "CHV",
+        "last_name": "Mendoza",
+        "first_name": "Francisco",
+        "position": "M",
+        "base_salary": 90000,
+        "guaranteed_compensation": 93750
+    },
+    {
+        "club": "CHV",
+        "last_name": "Merlin",
+        "first_name": "Laurent",
+        "position": "M",
+        "base_salary": 60000,
+        "guaranteed_compensation": 60000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Myers",
+        "first_name": "Justin",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHV",
+        "last_name": "Nagamura",
+        "first_name": "Paulo",
+        "position": "M",
+        "base_salary": 89250,
+        "guaranteed_compensation": 89250
+    },
+    {
+        "club": "CHV",
+        "last_name": "Nunez",
+        "first_name": "Ramon",
+        "position": "M",
+        "base_salary": 100000,
+        "guaranteed_compensation": 118000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Perez",
+        "first_name": "Orlando",
+        "position": "D",
+        "base_salary": 70000,
+        "guaranteed_compensation": 70000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Razov",
+        "first_name": "Ante",
+        "position": "F",
+        "base_salary": 245000,
+        "guaranteed_compensation": 248750
+    },
+    {
+        "club": "CHV",
+        "last_name": "Robles",
+        "first_name": "Eder",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHV",
+        "last_name": "Solorzano",
+        "first_name": "Erasmo",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CHV",
+        "last_name": "Suarez",
+        "first_name": "Claudio",
+        "position": "D",
+        "base_salary": 146991.6,
+        "guaranteed_compensation": 146991.6
+    },
+    {
+        "club": "CHV",
+        "last_name": "Thomas",
+        "first_name": "Shavar",
+        "position": "D",
+        "base_salary": 70000,
+        "guaranteed_compensation": 73750
+    },
+    {
+        "club": "CHV",
+        "last_name": "Vaughn",
+        "first_name": "Lawson",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "CHV",
+        "last_name": "Zotinca",
+        "first_name": "Alex",
+        "position": "D",
+        "base_salary": 67500,
+        "guaranteed_compensation": 68750
+    },
+    {
+        "club": "CLB",
+        "last_name": "Evans",
+        "first_name": "Brad",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CLB",
+        "last_name": "Garey",
+        "first_name": "Jason",
+        "position": "F",
+        "base_salary": 41250,
+        "guaranteed_compensation": 53750
+    },
+    {
+        "club": "CLB",
+        "last_name": "Gaudette",
+        "first_name": "Bill",
+        "position": "GK",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Gaven",
+        "first_name": "Eddie",
+        "position": "M",
+        "base_salary": 165000,
+        "guaranteed_compensation": 188000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Gonzalez",
+        "first_name": "Marcos",
+        "position": "D",
+        "base_salary": 156000,
+        "guaranteed_compensation": 162250
+    },
+    {
+        "club": "CLB",
+        "last_name": "Grabavoy",
+        "first_name": "Ned",
+        "position": "M",
+        "base_salary": 45050.25,
+        "guaranteed_compensation": 52550.25
+    },
+    {
+        "club": "CLB",
+        "last_name": "Gruenebaum",
+        "first_name": "Andy",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CLB",
+        "last_name": "Hejduk",
+        "first_name": "Frankie",
+        "position": "D",
+        "base_salary": 150000,
+        "guaranteed_compensation": 175000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Hendrickson",
+        "first_name": "Ezra",
+        "position": "D-M",
+        "base_salary": 76650,
+        "guaranteed_compensation": 77900
+    },
+    {
+        "club": "CLB",
+        "last_name": "Herron",
+        "first_name": "Andy",
+        "position": "F",
+        "base_salary": 140000,
+        "guaranteed_compensation": 148750
+    },
+    {
+        "club": "CLB",
+        "last_name": "Hesmer",
+        "first_name": "William",
+        "position": "GK",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "CLB",
+        "last_name": "Hunter",
+        "first_name": "Ben",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CLB",
+        "last_name": "Junge",
+        "first_name": "Ryan",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CLB",
+        "last_name": "Kamara",
+        "first_name": "Kei",
+        "position": "F",
+        "base_salary": 33000,
+        "guaranteed_compensation": 43000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Marshall",
+        "first_name": "Chad",
+        "position": "D",
+        "base_salary": 100000,
+        "guaranteed_compensation": 123000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Miglioranzi",
+        "first_name": "Stefani",
+        "position": "M",
+        "base_salary": 70008,
+        "guaranteed_compensation": 86258
+    },
+    {
+        "club": "CLB",
+        "last_name": "Moreno",
+        "first_name": "Alejandro",
+        "position": "F",
+        "base_salary": 120000,
+        "guaranteed_compensation": 125000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Moss",
+        "first_name": "Brandon",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "CLB",
+        "last_name": "O'Rourke",
+        "first_name": "Danny",
+        "position": "M",
+        "base_salary": 46331.25,
+        "guaranteed_compensation": 56331.25
+    },
+    {
+        "club": "CLB",
+        "last_name": "Oughton",
+        "first_name": "Duncan",
+        "position": "D",
+        "base_salary": 72000,
+        "guaranteed_compensation": 72000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Peterson",
+        "first_name": "Andrew",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "CLB",
+        "last_name": "Pierce",
+        "first_name": "Rusty",
+        "position": "D",
+        "base_salary": 63000,
+        "guaranteed_compensation": 64300
+    },
+    {
+        "club": "CLB",
+        "last_name": "Rogers",
+        "first_name": "Robbie",
+        "position": "F-M",
+        "base_salary": 50000,
+        "guaranteed_compensation": 50000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Schelotto",
+        "first_name": "Guillermo Barros",
+        "position": "F",
+        "base_salary": 150000,
+        "guaranteed_compensation": 150000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Szetela",
+        "first_name": "Danny",
+        "position": "M",
+        "base_salary": 43135.31,
+        "guaranteed_compensation": 48760.31
+    },
+    {
+        "club": "CLB",
+        "last_name": "Thomas",
+        "first_name": "Jacob",
+        "position": "M",
+        "base_salary": 84000,
+        "guaranteed_compensation": 87750
+    },
+    {
+        "club": "CLB",
+        "last_name": "Virtuoso",
+        "first_name": "Ricardo",
+        "position": "M",
+        "base_salary": 60000,
+        "guaranteed_compensation": 102000
+    },
+    {
+        "club": "CLB",
+        "last_name": "Ward",
+        "first_name": "Tim",
+        "position": "D",
+        "base_salary": 38456.25,
+        "guaranteed_compensation": 48456.25
+    },
+    {
+        "club": "CLB",
+        "last_name": "Zayner",
+        "first_name": "Jed",
+        "position": "D",
+        "base_salary": 33000,
+        "guaranteed_compensation": 40500
+    },
+    {
+        "club": "COL",
+        "last_name": "Ballouchy",
+        "first_name": "Mehdi",
+        "position": "M",
+        "base_salary": 70000,
+        "guaranteed_compensation": 88000
+    },
+    {
+        "club": "COL",
+        "last_name": "Cancela",
+        "first_name": "Jose",
+        "position": "M",
+        "base_salary": 156000,
+        "guaranteed_compensation": 156000
+    },
+    {
+        "club": "COL",
+        "last_name": "Casey",
+        "first_name": "Conor",
+        "position": "F",
+        "base_salary": 180000,
+        "guaranteed_compensation": 180000
+    },
+    {
+        "club": "COL",
+        "last_name": "Clark",
+        "first_name": "Colin",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "COL",
+        "last_name": "Colaluca",
+        "first_name": "Nico",
+        "position": "M",
+        "base_salary": 45000,
+        "guaranteed_compensation": 78000
+    },
+    {
+        "club": "COL",
+        "last_name": "Cooke",
+        "first_name": "Terry",
+        "position": "M",
+        "base_salary": 147500,
+        "guaranteed_compensation": 152500
+    },
+    {
+        "club": "COL",
+        "last_name": "Coundoul",
+        "first_name": "Bouna",
+        "position": "GK",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "COL",
+        "last_name": "Cummings",
+        "first_name": "Omar",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "COL",
+        "last_name": "DiRaimondo",
+        "first_name": "John",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "COL",
+        "last_name": "Erpen",
+        "first_name": "Facundo",
+        "position": "D",
+        "base_salary": 115000,
+        "guaranteed_compensation": 115000
+    },
+    {
+        "club": "COL",
+        "last_name": "Gargan",
+        "first_name": "Daniel",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "COL",
+        "last_name": "Gomez",
+        "first_name": "Hercules",
+        "position": "F",
+        "base_salary": 49350,
+        "guaranteed_compensation": 49350
+    },
+    {
+        "club": "COL",
+        "last_name": "Harvey",
+        "first_name": "Jordan",
+        "position": "D",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "COL",
+        "last_name": "Hernandez",
+        "first_name": "Nicolas",
+        "position": "F",
+        "base_salary": 130000,
+        "guaranteed_compensation": 132400
+    },
+    {
+        "club": "COL",
+        "last_name": "Hughes",
+        "first_name": "Justin",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "COL",
+        "last_name": "Ihemelu",
+        "first_name": "Ugo",
+        "position": "D",
+        "base_salary": 55000,
+        "guaranteed_compensation": 55000
+    },
+    {
+        "club": "COL",
+        "last_name": "Keel",
+        "first_name": "Stephen",
+        "position": "D",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "COL",
+        "last_name": "Kimura",
+        "first_name": "Kosuke",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "COL",
+        "last_name": "Kirovski",
+        "first_name": "Jovan",
+        "position": "F",
+        "base_salary": 200000,
+        "guaranteed_compensation": 200000
+    },
+    {
+        "club": "COL",
+        "last_name": "LaBrocca",
+        "first_name": "Nick",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "COL",
+        "last_name": "Mastroeni",
+        "first_name": "Pablo",
+        "position": "M-D",
+        "base_salary": 280000,
+        "guaranteed_compensation": 298000
+    },
+    {
+        "club": "COL",
+        "last_name": "Osorno",
+        "first_name": "Daniel",
+        "position": "F",
+        "base_salary": 138000,
+        "guaranteed_compensation": 143000
+    },
+    {
+        "club": "COL",
+        "last_name": "Peterson",
+        "first_name": "Jacob",
+        "position": "F",
+        "base_salary": 70000,
+        "guaranteed_compensation": 88750
+    },
+    {
+        "club": "COL",
+        "last_name": "Petke",
+        "first_name": "Mike",
+        "position": "D",
+        "base_salary": 126000,
+        "guaranteed_compensation": 126000
+    },
+    {
+        "club": "COL",
+        "last_name": "Prideaux",
+        "first_name": "Brandon",
+        "position": "D",
+        "base_salary": 76403,
+        "guaranteed_compensation": 76403
+    },
+    {
+        "club": "COL",
+        "last_name": "Sanneh",
+        "first_name": "Tony",
+        "position": "D",
+        "base_salary": 60000,
+        "guaranteed_compensation": 60000
+    },
+    {
+        "club": "COL",
+        "last_name": "Thornton",
+        "first_name": "Zach",
+        "position": "GK",
+        "base_salary": 57600,
+        "guaranteed_compensation": 57600
+    },
+    {
+        "club": "COL",
+        "last_name": "Wasson",
+        "first_name": "Daniel",
+        "position": "D",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "COL",
+        "last_name": "Wilmes",
+        "first_name": "Clifton",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DAL",
+        "last_name": "Alvarez",
+        "first_name": "Arturo",
+        "position": "M",
+        "base_salary": 32819,
+        "guaranteed_compensation": 46019
+    },
+    {
+        "club": "DAL",
+        "last_name": "Botero",
+        "first_name": "Juan Sebastian",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DAL",
+        "last_name": "Burse",
+        "first_name": "Ray",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "DAL",
+        "last_name": "Cooper",
+        "first_name": "Kenny",
+        "position": "F",
+        "base_salary": 80000,
+        "guaranteed_compensation": 83000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Daniels",
+        "first_name": "Andrew",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DAL",
+        "last_name": "De Oliveira",
+        "first_name": "Denilson",
+        "position": "M",
+        "base_salary": 872736,
+        "guaranteed_compensation": 879936
+    },
+    {
+        "club": "DAL",
+        "last_name": "Dello-Russo",
+        "first_name": "Michael",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DAL",
+        "last_name": "Gbandi",
+        "first_name": "Chris",
+        "position": "D",
+        "base_salary": 100000,
+        "guaranteed_compensation": 103750
+    },
+    {
+        "club": "DAL",
+        "last_name": "Gbandi",
+        "first_name": "Sandy",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DAL",
+        "last_name": "Goodson",
+        "first_name": "Clarence",
+        "position": "D",
+        "base_salary": 48378.75,
+        "guaranteed_compensation": 53378.75
+    },
+    {
+        "club": "DAL",
+        "last_name": "Hislop",
+        "first_name": "Shaka",
+        "position": "GK",
+        "base_salary": 220800,
+        "guaranteed_compensation": 220800
+    },
+    {
+        "club": "DAL",
+        "last_name": "Ibrahim",
+        "first_name": "Abdus",
+        "position": "F",
+        "base_salary": 50000,
+        "guaranteed_compensation": 83000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Jones",
+        "first_name": "Scott",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DAL",
+        "last_name": "McCarty",
+        "first_name": "Dax",
+        "position": "M",
+        "base_salary": 33000,
+        "guaranteed_compensation": 45500
+    },
+    {
+        "club": "DAL",
+        "last_name": "Mina",
+        "first_name": "Roberto",
+        "position": "F",
+        "base_salary": 80000,
+        "guaranteed_compensation": 80000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Moor",
+        "first_name": "Drew",
+        "position": "D",
+        "base_salary": 53350,
+        "guaranteed_compensation": 65850
+    },
+    {
+        "club": "DAL",
+        "last_name": "Oduro",
+        "first_name": "Dominic",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Pereira",
+        "first_name": "Ricardo",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Pitchkolan",
+        "first_name": "Aaron",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "DAL",
+        "last_name": "Rhine",
+        "first_name": "Bobby",
+        "position": "D",
+        "base_salary": 60000,
+        "guaranteed_compensation": 62500
+    },
+    {
+        "club": "DAL",
+        "last_name": "Ricchetti",
+        "first_name": "Pablo",
+        "position": "M",
+        "base_salary": 120000,
+        "guaranteed_compensation": 126625
+    },
+    {
+        "club": "DAL",
+        "last_name": "Ruiz",
+        "first_name": "Carlos",
+        "position": "F",
+        "base_salary": 325000,
+        "guaranteed_compensation": 435000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Sala",
+        "first_name": "Dario",
+        "position": "GK",
+        "base_salary": 110000,
+        "guaranteed_compensation": 119875
+    },
+    {
+        "club": "DAL",
+        "last_name": "Saragosa",
+        "first_name": "Marcelo",
+        "position": "M",
+        "base_salary": 67008,
+        "guaranteed_compensation": 71883
+    },
+    {
+        "club": "DAL",
+        "last_name": "Serioux",
+        "first_name": "Adrian",
+        "position": "D",
+        "base_salary": 108000,
+        "guaranteed_compensation": 120500
+    },
+    {
+        "club": "DAL",
+        "last_name": "Thompson",
+        "first_name": "Abe",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Toja",
+        "first_name": "Juan Carlos",
+        "position": "M",
+        "base_salary": 100008,
+        "guaranteed_compensation": 100008
+    },
+    {
+        "club": "DAL",
+        "last_name": "Wagenfuhr",
+        "first_name": "David",
+        "position": "D",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "DAL",
+        "last_name": "Wagner",
+        "first_name": "Blake",
+        "position": "D",
+        "base_salary": 33000,
+        "guaranteed_compensation": 45500
+    },
+    {
+        "club": "DAL",
+        "last_name": "Wallace",
+        "first_name": "Anthony",
+        "position": "M",
+        "base_salary": 45000,
+        "guaranteed_compensation": 78000
+    },
+    {
+        "club": "DAL",
+        "last_name": "Yi",
+        "first_name": "Alex",
+        "position": "D",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "DC",
+        "last_name": "Addlery",
+        "first_name": "Nicholas",
+        "position": "F",
+        "base_salary": 36000,
+        "guaranteed_compensation": 36000
+    },
+    {
+        "club": "DC",
+        "last_name": "Arguez",
+        "first_name": "Bryan",
+        "position": "M-D",
+        "base_salary": 45000,
+        "guaranteed_compensation": 76200
+    },
+    {
+        "club": "DC",
+        "last_name": "Boswell",
+        "first_name": "Robert",
+        "position": "D",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "DC",
+        "last_name": "Burch",
+        "first_name": "Marc",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DC",
+        "last_name": "Carreiro da Silva",
+        "first_name": "Fred",
+        "position": "M-F",
+        "base_salary": 190008,
+        "guaranteed_compensation": 222008
+    },
+    {
+        "club": "DC",
+        "last_name": "Carroll",
+        "first_name": "Brian",
+        "position": "M",
+        "base_salary": 115000,
+        "guaranteed_compensation": 118750
+    },
+    {
+        "club": "DC",
+        "last_name": "Carroll",
+        "first_name": "Jeff",
+        "position": "M-D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DC",
+        "last_name": "Crowe",
+        "first_name": "Shawn",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DC",
+        "last_name": "DeRoux",
+        "first_name": "Stephen",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DC",
+        "last_name": "Dyachenko",
+        "first_name": "Rod",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "DC",
+        "last_name": "Emilio",
+        "first_name": "Luciano",
+        "position": "F",
+        "base_salary": 265000,
+        "guaranteed_compensation": 293125
+    },
+    {
+        "club": "DC",
+        "last_name": "Gomez",
+        "first_name": "Cristian",
+        "position": "M",
+        "base_salary": 216000,
+        "guaranteed_compensation": 218500
+    },
+    {
+        "club": "DC",
+        "last_name": "Gros",
+        "first_name": "Joshua",
+        "position": "M",
+        "base_salary": 72500,
+        "guaranteed_compensation": 75000
+    },
+    {
+        "club": "DC",
+        "last_name": "Kpene",
+        "first_name": "Guy",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DC",
+        "last_name": "McTavish",
+        "first_name": "Devon",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DC",
+        "last_name": "Mediate",
+        "first_name": "Stanton",
+        "position": "M-F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "DC",
+        "last_name": "Moose",
+        "first_name": "Justin",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "DC",
+        "last_name": "Moreno",
+        "first_name": "Jaime",
+        "position": "F",
+        "base_salary": 250000,
+        "guaranteed_compensation": 275000
+    },
+    {
+        "club": "DC",
+        "last_name": "Mupier",
+        "first_name": "Mira",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DC",
+        "last_name": "Namoff",
+        "first_name": "Bryan",
+        "position": "D",
+        "base_salary": 85000,
+        "guaranteed_compensation": 88750
+    },
+    {
+        "club": "DC",
+        "last_name": "Nolly",
+        "first_name": "Jay",
+        "position": "GK",
+        "base_salary": 36000,
+        "guaranteed_compensation": 36000
+    },
+    {
+        "club": "DC",
+        "last_name": "North",
+        "first_name": "Brad",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "DC",
+        "last_name": "Olsen",
+        "first_name": "Ben",
+        "position": "M",
+        "base_salary": 155000,
+        "guaranteed_compensation": 177500
+    },
+    {
+        "club": "DC",
+        "last_name": "Perkins",
+        "first_name": "Troy",
+        "position": "GK",
+        "base_salary": 85000,
+        "guaranteed_compensation": 87500
+    },
+    {
+        "club": "DC",
+        "last_name": "Simms",
+        "first_name": "Clyde",
+        "position": "M",
+        "base_salary": 52500,
+        "guaranteed_compensation": 53750
+    },
+    {
+        "club": "DC",
+        "last_name": "Vanney",
+        "first_name": "Greg",
+        "position": "D",
+        "base_salary": 216667,
+        "guaranteed_compensation": 236667
+    },
+    {
+        "club": "DC",
+        "last_name": "Walker",
+        "first_name": "Jamil",
+        "position": "M-F",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "HOU",
+        "last_name": "Ashe",
+        "first_name": "Corey",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Barrett",
+        "first_name": "Wade",
+        "position": "D",
+        "base_salary": 141750,
+        "guaranteed_compensation": 141750
+    },
+    {
+        "club": "HOU",
+        "last_name": "Chabala",
+        "first_name": "Mike",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "HOU",
+        "last_name": "Ching",
+        "first_name": "Brian",
+        "position": "F",
+        "base_salary": 220000,
+        "guaranteed_compensation": 220000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Clark",
+        "first_name": "Ricardo",
+        "position": "M",
+        "base_salary": 195000,
+        "guaranteed_compensation": 195000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Cochrane",
+        "first_name": "Ryan",
+        "position": "D",
+        "base_salary": 51149,
+        "guaranteed_compensation": 66149
+    },
+    {
+        "club": "HOU",
+        "last_name": "Dalglish",
+        "first_name": "Paul",
+        "position": "F",
+        "base_salary": 96000,
+        "guaranteed_compensation": 101000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Davis",
+        "first_name": "Brad",
+        "position": "M",
+        "base_salary": 120000,
+        "guaranteed_compensation": 120000
+    },
+    {
+        "club": "HOU",
+        "last_name": "DeRosario",
+        "first_name": "Dwayne",
+        "position": "M",
+        "base_salary": 324999.96,
+        "guaranteed_compensation": 324999.96
+    },
+    {
+        "club": "HOU",
+        "last_name": "Ebert",
+        "first_name": "Eric",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "HOU",
+        "last_name": "Hatzke",
+        "first_name": "Nick",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "HOU",
+        "last_name": "Hayden",
+        "first_name": "John-Michael",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "HOU",
+        "last_name": "Hoerner",
+        "first_name": "Kenneth",
+        "position": "M-F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "HOU",
+        "last_name": "Holden",
+        "first_name": "Stuart",
+        "position": "M",
+        "base_salary": 31500,
+        "guaranteed_compensation": 31500
+    },
+    {
+        "club": "HOU",
+        "last_name": "Ianni",
+        "first_name": "Patrick",
+        "position": "D",
+        "base_salary": 70000,
+        "guaranteed_compensation": 103000
+    },
+    {
+        "club": "HOU",
+        "last_name": "James",
+        "first_name": "Jordan",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "HOU",
+        "last_name": "Jaqua",
+        "first_name": "Nate",
+        "position": "F",
+        "base_salary": 112500,
+        "guaranteed_compensation": 119525
+    },
+    {
+        "club": "HOU",
+        "last_name": "Moloi",
+        "first_name": "Mpho",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "HOU",
+        "last_name": "Mullan",
+        "first_name": "Brian",
+        "position": "M",
+        "base_salary": 125000,
+        "guaranteed_compensation": 125000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Mulrooney",
+        "first_name": "Richard",
+        "position": "M",
+        "base_salary": 220000,
+        "guaranteed_compensation": 233200
+    },
+    {
+        "club": "HOU",
+        "last_name": "Ngwenya",
+        "first_name": "Joseph",
+        "position": "F",
+        "base_salary": 51148.13,
+        "guaranteed_compensation": 62023.13
+    },
+    {
+        "club": "HOU",
+        "last_name": "Onstad",
+        "first_name": "Pat",
+        "position": "GK",
+        "base_salary": 168000,
+        "guaranteed_compensation": 168000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Robinson",
+        "first_name": "Eddie",
+        "position": "D",
+        "base_salary": 110000,
+        "guaranteed_compensation": 110000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Ustruck",
+        "first_name": "Erik",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "HOU",
+        "last_name": "Waibel",
+        "first_name": "Craig",
+        "position": "D",
+        "base_salary": 85000,
+        "guaranteed_compensation": 85000
+    },
+    {
+        "club": "HOU",
+        "last_name": "Wells",
+        "first_name": "Zachary",
+        "position": "GK",
+        "base_salary": 50400,
+        "guaranteed_compensation": 50400
+    },
+    {
+        "club": "HOU",
+        "last_name": "Wondolowski",
+        "first_name": "Chris",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Arnaud",
+        "first_name": "Davy",
+        "position": "M",
+        "base_salary": 100000,
+        "guaranteed_compensation": 101875
+    },
+    {
+        "club": "KC",
+        "last_name": "Burciaga",
+        "first_name": "Jose",
+        "position": "D",
+        "base_salary": 100000,
+        "guaranteed_compensation": 102500
+    },
+    {
+        "club": "KC",
+        "last_name": "Colombano",
+        "first_name": "Eloy",
+        "position": "F-M",
+        "base_salary": 42000,
+        "guaranteed_compensation": 42000
+    },
+    {
+        "club": "KC",
+        "last_name": "Conrad",
+        "first_name": "Jimmy",
+        "position": "D",
+        "base_salary": 194750,
+        "guaranteed_compensation": 206000
+    },
+    {
+        "club": "KC",
+        "last_name": "Elcock",
+        "first_name": "Edson",
+        "position": "M-F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "KC",
+        "last_name": "Garcia",
+        "first_name": "Nick",
+        "position": "D",
+        "base_salary": 131250,
+        "guaranteed_compensation": 136250
+    },
+    {
+        "club": "KC",
+        "last_name": "Godbolt",
+        "first_name": "Aaron John",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "KC",
+        "last_name": "Guadarrama",
+        "first_name": "Willy",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "KC",
+        "last_name": "Harrington",
+        "first_name": "Michael",
+        "position": "D",
+        "base_salary": 36000,
+        "guaranteed_compensation": 53500
+    },
+    {
+        "club": "KC",
+        "last_name": "Hartman",
+        "first_name": "Kevin",
+        "position": "GK",
+        "base_salary": 150000,
+        "guaranteed_compensation": 150000
+    },
+    {
+        "club": "KC",
+        "last_name": "Hohlbein",
+        "first_name": "Aaron",
+        "position": "M-D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Jewsbury",
+        "first_name": "Jack",
+        "position": "M-F",
+        "base_salary": 50000,
+        "guaranteed_compensation": 50000
+    },
+    {
+        "club": "KC",
+        "last_name": "John",
+        "first_name": "Will",
+        "position": "M-F",
+        "base_salary": 33075,
+        "guaranteed_compensation": 40575
+    },
+    {
+        "club": "KC",
+        "last_name": "Johnson",
+        "first_name": "Eddie",
+        "position": "F",
+        "base_salary": 750000,
+        "guaranteed_compensation": 875000
+    },
+    {
+        "club": "KC",
+        "last_name": "Konopka",
+        "first_name": "Chris",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "KC",
+        "last_name": "Kraus",
+        "first_name": "Michael",
+        "position": "M-F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "KC",
+        "last_name": "Kronberg",
+        "first_name": "Eric",
+        "position": "GK",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Lowery",
+        "first_name": "Amir",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "KC",
+        "last_name": "Marinelli",
+        "first_name": "Carlos",
+        "position": "M",
+        "base_salary": 165000,
+        "guaranteed_compensation": 165000
+    },
+    {
+        "club": "KC",
+        "last_name": "McMahen",
+        "first_name": "Ryan",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Morsink",
+        "first_name": "Kurt",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Movsisyan",
+        "first_name": "Yura",
+        "position": "F",
+        "base_salary": 35750,
+        "guaranteed_compensation": 45750
+    },
+    {
+        "club": "KC",
+        "last_name": "Pore",
+        "first_name": "Ryan",
+        "position": "F",
+        "base_salary": 44825,
+        "guaranteed_compensation": 57325
+    },
+    {
+        "club": "KC",
+        "last_name": "Raybould",
+        "first_name": "Ryan",
+        "position": "D-M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Sealy",
+        "first_name": "Scott",
+        "position": "F",
+        "base_salary": 33075,
+        "guaranteed_compensation": 33075
+    },
+    {
+        "club": "KC",
+        "last_name": "Victorine",
+        "first_name": "Sasha",
+        "position": "M",
+        "base_salary": 137500,
+        "guaranteed_compensation": 140000
+    },
+    {
+        "club": "KC",
+        "last_name": "Wahl",
+        "first_name": "Tyson",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "KC",
+        "last_name": "Watson",
+        "first_name": "Lance",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "KC",
+        "last_name": "Zavagnin",
+        "first_name": "Kerry",
+        "position": "M",
+        "base_salary": 154000,
+        "guaranteed_compensation": 154000
+    },
+    {
+        "club": "LA",
+        "last_name": "Albright",
+        "first_name": "Chris",
+        "position": "M-D",
+        "base_salary": 142500,
+        "guaranteed_compensation": 142500
+    },
+    {
+        "club": "LA",
+        "last_name": "Beckham",
+        "first_name": "David",
+        "position": "M",
+        "base_salary": 5500000.08,
+        "guaranteed_compensation": 6500000.04
+    },
+    {
+        "club": "LA",
+        "last_name": "Buddle",
+        "first_name": "Edson",
+        "position": "F",
+        "base_salary": 140000,
+        "guaranteed_compensation": 150000
+    },
+    {
+        "club": "LA",
+        "last_name": "Cannon",
+        "first_name": "Joe",
+        "position": "GK",
+        "base_salary": 192000,
+        "guaranteed_compensation": 192000
+    },
+    {
+        "club": "LA",
+        "last_name": "Caso",
+        "first_name": "Mike",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "LA",
+        "last_name": "Cronin",
+        "first_name": "Steve",
+        "position": "GK",
+        "base_salary": 34728.75,
+        "guaranteed_compensation": 42228.75
+    },
+    {
+        "club": "LA",
+        "last_name": "Donovan",
+        "first_name": "Landon",
+        "position": "F",
+        "base_salary": 900000,
+        "guaranteed_compensation": 900000
+    },
+    {
+        "club": "LA",
+        "last_name": "Friesz",
+        "first_name": "Lance",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "LA",
+        "last_name": "Glinton",
+        "first_name": "Gavin",
+        "position": "F",
+        "base_salary": 50000,
+        "guaranteed_compensation": 50000
+    },
+    {
+        "club": "LA",
+        "last_name": "Gordon",
+        "first_name": "Alan",
+        "position": "F",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "LA",
+        "last_name": "Gray",
+        "first_name": "Kelly",
+        "position": "M-D",
+        "base_salary": 85000,
+        "guaranteed_compensation": 85000
+    },
+    {
+        "club": "LA",
+        "last_name": "Harden",
+        "first_name": "Ty",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "LA",
+        "last_name": "Harmse",
+        "first_name": "Kevin",
+        "position": "M",
+        "base_salary": 40800,
+        "guaranteed_compensation": 40800
+    },
+    {
+        "club": "LA",
+        "last_name": "Jazic",
+        "first_name": "Ante",
+        "position": "D-M",
+        "base_salary": 108000,
+        "guaranteed_compensation": 114250
+    },
+    {
+        "club": "LA",
+        "last_name": "Jones",
+        "first_name": "Cobi",
+        "position": "M",
+        "base_salary": 95000,
+        "guaranteed_compensation": 95000
+    },
+    {
+        "club": "LA",
+        "last_name": "Kirk",
+        "first_name": "Quavas",
+        "position": "F",
+        "base_salary": 75000,
+        "guaranteed_compensation": 111500
+    },
+    {
+        "club": "LA",
+        "last_name": "Klein",
+        "first_name": "Chris",
+        "position": "M",
+        "base_salary": 180000,
+        "guaranteed_compensation": 187250
+    },
+    {
+        "club": "LA",
+        "last_name": "Martino",
+        "first_name": "Kyle",
+        "position": "M",
+        "base_salary": 52500,
+        "guaranteed_compensation": 55297.27
+    },
+    {
+        "club": "LA",
+        "last_name": "Pavon",
+        "first_name": "Carlos",
+        "position": "F",
+        "base_salary": 132000,
+        "guaranteed_compensation": 141500
+    },
+    {
+        "club": "LA",
+        "last_name": "Randolph",
+        "first_name": "Michael",
+        "position": "D",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "LA",
+        "last_name": "Roberts",
+        "first_name": "Troy",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "LA",
+        "last_name": "Sesay",
+        "first_name": "Israel",
+        "position": "F",
+        "base_salary": 45000,
+        "guaranteed_compensation": 57083.33
+    },
+    {
+        "club": "LA",
+        "last_name": "Tudela",
+        "first_name": "Josh",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "LA",
+        "last_name": "Vagenas",
+        "first_name": "Peter",
+        "position": "M",
+        "base_salary": 131250,
+        "guaranteed_compensation": 131875
+    },
+    {
+        "club": "LA",
+        "last_name": "Veris",
+        "first_name": "Kyle",
+        "position": "D",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "LA",
+        "last_name": "Xavier",
+        "first_name": "Abel",
+        "position": "D",
+        "base_salary": 156000,
+        "guaranteed_compensation": 156000
+    },
+    {
+        "club": "NE",
+        "last_name": "Byrne",
+        "first_name": "Bryan",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "NE",
+        "last_name": "Cristman",
+        "first_name": "Adam",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "NE",
+        "last_name": "Dorman",
+        "first_name": "Andy",
+        "position": "M",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "NE",
+        "last_name": "Flood",
+        "first_name": "Gary",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NE",
+        "last_name": "Franchino",
+        "first_name": "Joey",
+        "position": "D",
+        "base_salary": 90000,
+        "guaranteed_compensation": 90000
+    },
+    {
+        "club": "NE",
+        "last_name": "Gonzalez",
+        "first_name": "Miguel",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NE",
+        "last_name": "Heaps",
+        "first_name": "Jay",
+        "position": "D",
+        "base_salary": 110000,
+        "guaranteed_compensation": 113750
+    },
+    {
+        "club": "NE",
+        "last_name": "Helton",
+        "first_name": "Kyle",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NE",
+        "last_name": "Igwe",
+        "first_name": "Amaechi",
+        "position": "F",
+        "base_salary": 45000,
+        "guaranteed_compensation": 78000
+    },
+    {
+        "club": "NE",
+        "last_name": "John",
+        "first_name": "Avery",
+        "position": "D",
+        "base_salary": 63000,
+        "guaranteed_compensation": 63750
+    },
+    {
+        "club": "NE",
+        "last_name": "Joseph",
+        "first_name": "Shalrie",
+        "position": "D",
+        "base_salary": 170625,
+        "guaranteed_compensation": 180625
+    },
+    {
+        "club": "NE",
+        "last_name": "Knighton",
+        "first_name": "Brad",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NE",
+        "last_name": "Larentowicz",
+        "first_name": "Jeff",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "NE",
+        "last_name": "Leonard",
+        "first_name": "Marshall",
+        "position": "M",
+        "base_salary": 47500,
+        "guaranteed_compensation": 47500
+    },
+    {
+        "club": "NE",
+        "last_name": "Loftus",
+        "first_name": "Chris",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NE",
+        "last_name": "Noonan",
+        "first_name": "Pat",
+        "position": "F",
+        "base_salary": 225000,
+        "guaranteed_compensation": 227500
+    },
+    {
+        "club": "NE",
+        "last_name": "Oka",
+        "first_name": "Arsene",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NE",
+        "last_name": "Parkhurst",
+        "first_name": "Michael",
+        "position": "D",
+        "base_salary": 80575,
+        "guaranteed_compensation": 93075
+    },
+    {
+        "club": "NE",
+        "last_name": "Ralston",
+        "first_name": "Steve",
+        "position": "M",
+        "base_salary": 150000,
+        "guaranteed_compensation": 150000
+    },
+    {
+        "club": "NE",
+        "last_name": "Reis",
+        "first_name": "Matt",
+        "position": "GK",
+        "base_salary": 150000,
+        "guaranteed_compensation": 150000
+    },
+    {
+        "club": "NE",
+        "last_name": "Riley",
+        "first_name": "James",
+        "position": "D-F",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "NE",
+        "last_name": "Sims",
+        "first_name": "Willie",
+        "position": "F",
+        "base_salary": 35500,
+        "guaranteed_compensation": 43000
+    },
+    {
+        "club": "NE",
+        "last_name": "Smith",
+        "first_name": "Khano",
+        "position": "F",
+        "base_salary": 44100,
+        "guaranteed_compensation": 44100
+    },
+    {
+        "club": "NE",
+        "last_name": "Solle",
+        "first_name": "Ryan",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "NE",
+        "last_name": "Thompson",
+        "first_name": "Wells",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "NE",
+        "last_name": "Twellman",
+        "first_name": "Taylor",
+        "position": "F",
+        "base_salary": 325008,
+        "guaranteed_compensation": 350008
+    },
+    {
+        "club": "NE",
+        "last_name": "Warren",
+        "first_name": "Doug",
+        "position": "GK",
+        "base_salary": 50000,
+        "guaranteed_compensation": 50000
+    },
+    {
+        "club": "NY",
+        "last_name": "Altidore",
+        "first_name": "Josmer",
+        "position": "F",
+        "base_salary": 85000,
+        "guaranteed_compensation": 108333
+    },
+    {
+        "club": "NY",
+        "last_name": "Angel",
+        "first_name": "Juan Pablo",
+        "position": "F",
+        "base_salary": 1500000,
+        "guaranteed_compensation": 1593750
+    },
+    {
+        "club": "NY",
+        "last_name": "Caccavale",
+        "first_name": "Salvatore",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NY",
+        "last_name": "Camp",
+        "first_name": "Blake",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NY",
+        "last_name": "Cepero",
+        "first_name": "Danny",
+        "position": "GK",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NY",
+        "last_name": "Conway",
+        "first_name": "Jon",
+        "position": "GK",
+        "base_salary": 65000,
+        "guaranteed_compensation": 65750
+    },
+    {
+        "club": "NY",
+        "last_name": "Doe",
+        "first_name": "Francis",
+        "position": "F",
+        "base_salary": 48000,
+        "guaranteed_compensation": 48000
+    },
+    {
+        "club": "NY",
+        "last_name": "Freeman",
+        "first_name": "Hunter",
+        "position": "D-M",
+        "base_salary": 50600,
+        "guaranteed_compensation": 60600
+    },
+    {
+        "club": "NY",
+        "last_name": "Goldthwaite",
+        "first_name": "Kevin",
+        "position": "D",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "NY",
+        "last_name": "Ikangu",
+        "first_name": "Elie",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "NY",
+        "last_name": "Karcz",
+        "first_name": "Chris",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NY",
+        "last_name": "Kovalenko",
+        "first_name": "Dema",
+        "position": "M",
+        "base_salary": 190000,
+        "guaranteed_compensation": 197375
+    },
+    {
+        "club": "NY",
+        "last_name": "Laventure",
+        "first_name": "Jerrod",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NY",
+        "last_name": "Leitch",
+        "first_name": "Chris",
+        "position": "D",
+        "base_salary": 43200,
+        "guaranteed_compensation": 43200
+    },
+    {
+        "club": "NY",
+        "last_name": "Magee",
+        "first_name": "Mike",
+        "position": "F",
+        "base_salary": 56206.25,
+        "guaranteed_compensation": 57206.25
+    },
+    {
+        "club": "NY",
+        "last_name": "Mathis",
+        "first_name": "Clint",
+        "position": "M-F",
+        "base_salary": 270000,
+        "guaranteed_compensation": 410000
+    },
+    {
+        "club": "NY",
+        "last_name": "Mendes",
+        "first_name": "Carlos",
+        "position": "D",
+        "base_salary": 62606.25,
+        "guaranteed_compensation": 62606.25
+    },
+    {
+        "club": "NY",
+        "last_name": "Parke",
+        "first_name": "Jeff",
+        "position": "D",
+        "base_salary": 47250,
+        "guaranteed_compensation": 48500
+    },
+    {
+        "club": "NY",
+        "last_name": "Patterson",
+        "first_name": "Randi",
+        "position": "F",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "NY",
+        "last_name": "Quaranta",
+        "first_name": "Santino",
+        "position": "F",
+        "base_salary": 100000,
+        "guaranteed_compensation": 105312.5
+    },
+    {
+        "club": "NY",
+        "last_name": "Reyna",
+        "first_name": "Claudio",
+        "position": "M",
+        "base_salary": 1000008,
+        "guaranteed_compensation": 1250008
+    },
+    {
+        "club": "NY",
+        "last_name": "Richards",
+        "first_name": "Dane",
+        "position": "F-M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "NY",
+        "last_name": "Schopp",
+        "first_name": "Markus",
+        "position": "M",
+        "base_salary": 175000,
+        "guaranteed_compensation": 175000
+    },
+    {
+        "club": "NY",
+        "last_name": "Stammler",
+        "first_name": "Seth",
+        "position": "D",
+        "base_salary": 30870,
+        "guaranteed_compensation": 30870
+    },
+    {
+        "club": "NY",
+        "last_name": "Ubiparipovic",
+        "first_name": "Sinisa",
+        "position": "F-M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "NY",
+        "last_name": "Van Den Bergh",
+        "first_name": "Dave",
+        "position": "M",
+        "base_salary": 180000,
+        "guaranteed_compensation": 214583.33
+    },
+    {
+        "club": "NY",
+        "last_name": "Vide",
+        "first_name": "Joe",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "NY",
+        "last_name": "Waterreus",
+        "first_name": "Ronald",
+        "position": "GK",
+        "base_salary": 200000,
+        "guaranteed_compensation": 200000
+    },
+    {
+        "club": "NY",
+        "last_name": "Wolyniec",
+        "first_name": "John",
+        "position": "F",
+        "base_salary": 65625,
+        "guaranteed_compensation": 65625
+    },
+    {
+        "club": "Pool",
+        "last_name": "Monsalve",
+        "first_name": "David",
+        "position": "GK",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "Pool",
+        "last_name": "Pardo",
+        "first_name": "Boris",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "Pool",
+        "last_name": "Reynolds",
+        "first_name": "Samuel",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "Pool",
+        "last_name": "Schoeni",
+        "first_name": "Kenny",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "RSL",
+        "last_name": "Beckerman",
+        "first_name": "Kyle",
+        "position": "M",
+        "base_salary": 120000,
+        "guaranteed_compensation": 122500
+    },
+    {
+        "club": "RSL",
+        "last_name": "Besagno",
+        "first_name": "Nikolas",
+        "position": "M",
+        "base_salary": 75000,
+        "guaranteed_compensation": 111500
+    },
+    {
+        "club": "RSL",
+        "last_name": "Brown",
+        "first_name": "Kyle",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "RSL",
+        "last_name": "Brown",
+        "first_name": "Chris",
+        "position": "M-F",
+        "base_salary": 70000,
+        "guaranteed_compensation": 70000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Curfman",
+        "first_name": "Steven",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "RSL",
+        "last_name": "Cutler",
+        "first_name": "Kenny",
+        "position": "M",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Eskandarian",
+        "first_name": "Alecko",
+        "position": "F",
+        "base_salary": 155000,
+        "guaranteed_compensation": 175500
+    },
+    {
+        "club": "RSL",
+        "last_name": "Espindola",
+        "first_name": "Edgar",
+        "position": "F",
+        "base_salary": 72000,
+        "guaranteed_compensation": 72000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Findley",
+        "first_name": "Robert",
+        "position": "F",
+        "base_salary": 36000,
+        "guaranteed_compensation": 48500
+    },
+    {
+        "club": "RSL",
+        "last_name": "Forko",
+        "first_name": "Willis",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Harris",
+        "first_name": "Atiba",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Hashimoto",
+        "first_name": "Duke",
+        "position": "F",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "RSL",
+        "last_name": "Jimenez",
+        "first_name": "Christian",
+        "position": "M",
+        "base_salary": 33075,
+        "guaranteed_compensation": 43075
+    },
+    {
+        "club": "RSL",
+        "last_name": "Kipre",
+        "first_name": "Jean-Martial",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Kirby",
+        "first_name": "Dustin",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "RSL",
+        "last_name": "Kotschau",
+        "first_name": "Ritchie",
+        "position": "D",
+        "base_salary": 69300,
+        "guaranteed_compensation": 70175
+    },
+    {
+        "club": "RSL",
+        "last_name": "Lancos",
+        "first_name": "Chris",
+        "position": "D",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "RSL",
+        "last_name": "Mantilla",
+        "first_name": "Matias",
+        "position": "D",
+        "base_salary": 48000,
+        "guaranteed_compensation": 48000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Morales",
+        "first_name": "Javier",
+        "position": "M",
+        "base_salary": 120000,
+        "guaranteed_compensation": 120000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Pope",
+        "first_name": "Eddie",
+        "position": "D",
+        "base_salary": 265000,
+        "guaranteed_compensation": 265000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Reynish",
+        "first_name": "Kyle",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "RSL",
+        "last_name": "Rimando",
+        "first_name": "Nick",
+        "position": "GK",
+        "base_salary": 64125,
+        "guaranteed_compensation": 68468.75
+    },
+    {
+        "club": "RSL",
+        "last_name": "Seitz",
+        "first_name": "Chris",
+        "position": "GK",
+        "base_salary": 55000,
+        "guaranteed_compensation": 90500
+    },
+    {
+        "club": "RSL",
+        "last_name": "Stewart",
+        "first_name": "Jack",
+        "position": "D",
+        "base_salary": 41081.25,
+        "guaranteed_compensation": 48581.25
+    },
+    {
+        "club": "RSL",
+        "last_name": "Sturgis",
+        "first_name": "Nathan",
+        "position": "M",
+        "base_salary": 70000,
+        "guaranteed_compensation": 103000
+    },
+    {
+        "club": "RSL",
+        "last_name": "Talley",
+        "first_name": "Carey",
+        "position": "D",
+        "base_salary": 118248,
+        "guaranteed_compensation": 118248
+    },
+    {
+        "club": "RSL",
+        "last_name": "Watson",
+        "first_name": "Jamie",
+        "position": "F",
+        "base_salary": 45100,
+        "guaranteed_compensation": 50100
+    },
+    {
+        "club": "RSL",
+        "last_name": "Williams",
+        "first_name": "Andy",
+        "position": "F",
+        "base_salary": 70008,
+        "guaranteed_compensation": 70008
+    },
+    {
+        "club": "RSL",
+        "last_name": "Wingert",
+        "first_name": "Chris",
+        "position": "D",
+        "base_salary": 54993.75,
+        "guaranteed_compensation": 62493.75
+    },
+    {
+        "club": "TFC",
+        "last_name": "Attakora-Gyan",
+        "first_name": "Nana",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "TFC",
+        "last_name": "Boyens",
+        "first_name": "Andrew",
+        "position": "D",
+        "base_salary": 30000,
+        "guaranteed_compensation": 47500
+    },
+    {
+        "club": "TFC",
+        "last_name": "Braz",
+        "first_name": "Adam",
+        "position": "D",
+        "base_salary": 67200,
+        "guaranteed_compensation": 74950
+    },
+    {
+        "club": "TFC",
+        "last_name": "Brennan",
+        "first_name": "Jim",
+        "position": "D",
+        "base_salary": 150000,
+        "guaranteed_compensation": 158000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Canizalez",
+        "first_name": "Maycoll",
+        "position": "M",
+        "base_salary": 36000,
+        "guaranteed_compensation": 40000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Cunningham",
+        "first_name": "Jeffrey",
+        "position": "F",
+        "base_salary": 220000,
+        "guaranteed_compensation": 232500
+    },
+    {
+        "club": "TFC",
+        "last_name": "Dichio",
+        "first_name": "Daniel",
+        "position": "F",
+        "base_salary": 150000,
+        "guaranteed_compensation": 158125
+    },
+    {
+        "club": "TFC",
+        "last_name": "Djekanovic",
+        "first_name": "Srdjan",
+        "position": "GK",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "TFC",
+        "last_name": "Dunivant",
+        "first_name": "Todd",
+        "position": "D",
+        "base_salary": 99750,
+        "guaranteed_compensation": 99750
+    },
+    {
+        "club": "TFC",
+        "last_name": "Edu",
+        "first_name": "Maurice",
+        "position": "M",
+        "base_salary": 50000,
+        "guaranteed_compensation": 132500
+    },
+    {
+        "club": "TFC",
+        "last_name": "Gala",
+        "first_name": "Gabriel",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "TFC",
+        "last_name": "Guzman",
+        "first_name": "David",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "TFC",
+        "last_name": "Hemming",
+        "first_name": "Tyler",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "TFC",
+        "last_name": "Lombardo",
+        "first_name": "Andrea",
+        "position": "F",
+        "base_salary": 30000,
+        "guaranteed_compensation": 30000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Lumley",
+        "first_name": "Stephen",
+        "position": "D",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "TFC",
+        "last_name": "Marshall",
+        "first_name": "Tyrone",
+        "position": "D",
+        "base_salary": 142000,
+        "guaranteed_compensation": 149500
+    },
+    {
+        "club": "TFC",
+        "last_name": "Melo",
+        "first_name": "Joey",
+        "position": "M",
+        "base_salary": 12900,
+        "guaranteed_compensation": 12900
+    },
+    {
+        "club": "TFC",
+        "last_name": "Nunez",
+        "first_name": "Cristian",
+        "position": "M",
+        "base_salary": 17700,
+        "guaranteed_compensation": 17700
+    },
+    {
+        "club": "TFC",
+        "last_name": "O'Brien",
+        "first_name": "Ronnie",
+        "position": "M",
+        "base_salary": 240000,
+        "guaranteed_compensation": 258750
+    },
+    {
+        "club": "TFC",
+        "last_name": "Pozniak",
+        "first_name": "Chris",
+        "position": "D",
+        "base_salary": 90000,
+        "guaranteed_compensation": 95000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Reda",
+        "first_name": "Marco",
+        "position": "D",
+        "base_salary": 100000,
+        "guaranteed_compensation": 105000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Robinson",
+        "first_name": "Carl",
+        "position": "M",
+        "base_salary": 300000,
+        "guaranteed_compensation": 315000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Samuel",
+        "first_name": "Collin",
+        "position": "F",
+        "base_salary": 90000,
+        "guaranteed_compensation": 115000
+    },
+    {
+        "club": "TFC",
+        "last_name": "Stamatopolus",
+        "first_name": "Kenny",
+        "position": "GK",
+        "base_salary": 30000,
+        "guaranteed_compensation": 37500
+    },
+    {
+        "club": "TFC",
+        "last_name": "Sutton",
+        "first_name": "Greg",
+        "position": "GK",
+        "base_salary": 125000,
+        "guaranteed_compensation": 132562.5
+    },
+    {
+        "club": "TFC",
+        "last_name": "Welsh",
+        "first_name": "Andrew",
+        "position": "M",
+        "base_salary": 195000,
+        "guaranteed_compensation": 204750
+    },
+    {
+        "club": "TFC",
+        "last_name": "Wynne",
+        "first_name": "Marvell",
+        "position": "D",
+        "base_salary": 47500,
+        "guaranteed_compensation": 150000
+    }
+]

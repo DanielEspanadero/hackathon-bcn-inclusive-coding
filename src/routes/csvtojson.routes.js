@@ -1,7 +1,7 @@
-import { Router } from "express";
+import { Router } from 'express';
 
-import { csvToJson } from "../controllers/csvtojson.controllers";
-import { upload } from "../middlewares/upload";
+import { csvToJson } from '../controllers/csvtojson.controllers';
+import { upload } from '../middlewares/upload';
 
 const router = Router();
 
