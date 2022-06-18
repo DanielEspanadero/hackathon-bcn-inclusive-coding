@@ -8,13 +8,13 @@ _This project is organized by [Nuwe](https://nuwe.io/) and is part of the qualif
 ## Translations 💬
 
 _This README file is also available in other languages:_
-- [Catalan]()
-- [French]()
-- [German]()
-- [Italian]()
-- [Portuguese]()
-- [Spanish]()
-- [Swedish]()
+- [Catalan](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-cat.md)
+- [French](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-fr.md)
+- [German](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-de.md)
+- [Italian](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-it.md)
+- [Portuguese](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-pt.md)
+- [Spanish](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-es.md)
+- [Swedish](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/README-se.md)
 
 ## Goals 🎯
 _`Hackathon BCN Inclusive Coding` asks us to meet the following goals:_
@@ -52,7 +52,7 @@ npm install
 
 ### Environment variables .env 🪛
 
-_For the project to work correctly you have to enable the environment variables, for this you have to create a file with the name `.env` and enter the data you have in the `.config.env template`_
+_For the project to work correctly you have to enable the environment variables, for this you have to create a file with the name `.env` and enter the data you have in the `.config.env` template_
 
 ![Demo](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/01.png)
 
