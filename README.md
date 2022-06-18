@@ -54,6 +54,7 @@ npm install
 
 _For the project to work correctly you have to enable the environment variables, for this you have to create a file with the name `.env` and enter the data you have in the `.config.env template`_
 
+![Demo](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/01.png)
 
 ## Commands to run ⌨️
 
@@ -71,5 +72,5 @@ npm run dev
 _The idea of the project is that when you upload a CSV file, it automatically converts to JSON format. The uploaded CSV files path is `src/uploads`, and the transformed files path is `src/json`._
 _To test the app with postman we have to import the file found in the path `postman`, to do this, we open postman and go to the path `file → import` and import the `CSV to JSON.postman_collection.json` file._
 
-![Demo]()
+![Demo](https://github.com/DanielEspanadero/hackathon-bcn-inclusive-coding/blob/main/docs/02.png)
 
